@@ -1,0 +1,549 @@
+
+/* Class = "NSMenuItem"; title = "Bring All to Front"; ObjectID = "5"; */
+"5.title" = "すべてを手前に移動";
+
+/* Class = "NSMenuItem"; title = "Window"; ObjectID = "19"; */
+"19.title" = "ウインドウ";
+
+/* Class = "NSMenuItem"; title = "Minimize"; ObjectID = "23"; */
+"23.title" = "最小化";
+
+/* Class = "NSMenu"; title = "Window"; ObjectID = "24"; */
+"24.title" = "ウインドウ";
+
+/* Class = "NSMenuItem"; title = "iA Writer"; ObjectID = "56"; */
+"56.title" = "iA Writer";
+
+/* Class = "NSMenu"; title = "iA Writer"; ObjectID = "57"; */
+"57.title" = "iA Writer";
+
+/* Class = "NSMenuItem"; title = "About iA Writer"; ObjectID = "58"; */
+"58.title" = "iA Writerについて";
+
+/* Class = "NSMenuItem"; title = "Open…"; ObjectID = "72"; */
+"72.title" = "開く…";
+
+/* Class = "NSMenuItem"; title = "Close"; ObjectID = "73"; */
+"73.title" = "閉じる";
+
+/* Class = "NSMenuItem"; title = "Save"; ObjectID = "75"; */
+"75.title" = "保存";
+
+/* Class = "NSMenuItem"; title = "Print…"; ObjectID = "78"; */
+"78.title" = "印刷…";
+
+/* Class = "NSMenuItem"; title = "Save As…"; ObjectID = "80"; */
+"80.title" = "名前をつけて保存…";
+
+/* Class = "NSMenu"; title = "File"; ObjectID = "81"; */
+"81.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "82"; */
+"82.title" = "ライブラリの新規ファイル";
+
+/* Class = "NSMenuItem"; title = "File"; ObjectID = "83"; */
+"83.title" = "ファイル";
+
+/* Class = "NSMenuItem"; title = "Revert to Saved..."; ObjectID = "112"; */
+"112.title" = "保存版に戻す";
+
+/* Class = "NSMenuItem"; title = "Open Recent"; ObjectID = "124"; */
+"124.title" = "最近のファイル";
+
+/* Class = "NSMenu"; title = "Open Recent"; ObjectID = "125"; */
+"125.title" = "最近のファイル";
+
+/* Class = "NSMenuItem"; title = "Clear Menu"; ObjectID = "126"; */
+"126.title" = "メニューをクリア";
+
+/* Class = "NSMenu"; title = "Services"; ObjectID = "130"; */
+"130.title" = "サービス";
+
+/* Class = "NSMenuItem"; title = "Services"; ObjectID = "131"; */
+"131.title" = "サービス";
+
+/* Class = "NSMenuItem"; title = "Hide iA Writer"; ObjectID = "134"; */
+"134.title" = "iA Writerを隠す";
+
+/* Class = "NSMenuItem"; title = "Quit iA Writer"; ObjectID = "136"; */
+"136.title" = "iA Writerを閉じる";
+
+/* Class = "NSMenuItem"; title = "Hide Others"; ObjectID = "145"; */
+"145.title" = "他を隠す";
+
+/* Class = "NSMenuItem"; title = "Show All"; ObjectID = "150"; */
+"150.title" = "全部表示化";
+
+/* Class = "NSMenuItem"; title = "Copy"; ObjectID = "197"; */
+"197.title" = "コピー";
+
+/* Class = "NSMenuItem"; title = "Select All"; ObjectID = "198"; */
+"198.title" = "全選択";
+
+/* Class = "NSMenuItem"; title = "Cut"; ObjectID = "199"; */
+"199.title" = "切り取る";
+
+/* Class = "NSMenuItem"; title = "Delete"; ObjectID = "202"; */
+"202.title" = "削除";
+
+/* Class = "NSMenuItem"; title = "Paste"; ObjectID = "203"; */
+"203.title" = "貼り付け";
+
+/* Class = "NSMenu"; title = "Edit"; ObjectID = "205"; */
+"205.title" = "編集";
+
+/* Class = "NSMenuItem"; title = "Undo"; ObjectID = "207"; */
+"207.title" = "取り消す";
+
+/* Class = "NSMenuItem"; title = "Find Next"; ObjectID = "208"; */
+"208.title" = "次を検索";
+
+/* Class = "NSMenuItem"; title = "Find…"; ObjectID = "209"; */
+"209.title" = "検索";
+
+/* Class = "NSMenuItem"; title = "Find Previous"; ObjectID = "213"; */
+"213.title" = "前を検索";
+
+/* Class = "NSMenuItem"; title = "Redo"; ObjectID = "215"; */
+"215.title" = "やり直す";
+
+/* Class = "NSMenuItem"; title = "Edit"; ObjectID = "217"; */
+"217.title" = "編集";
+
+/* Class = "NSMenuItem"; title = "Find"; ObjectID = "218"; */
+"218.title" = "検索";
+
+/* Class = "NSMenu"; title = "Find"; ObjectID = "220"; */
+"220.title" = "検索";
+
+/* Class = "NSMenuItem"; title = "Zoom"; ObjectID = "239"; */
+"239.title" = "ズーム";
+
+/* Class = "NSMenuItem"; title = "Help"; ObjectID = "491"; */
+"491.title" = "ヘルプ";
+
+/* Class = "NSMenu"; title = "Help"; ObjectID = "492"; */
+"492.title" = "ヘルプ";
+
+/* Class = "NSMenuItem"; title = "iA Writer Help"; ObjectID = "493"; */
+"493.title" = "iA Writerヘルプ";
+
+/* Class = "NSMenuItem"; title = "What’s New in iA Writer"; ObjectID = "540"; */
+"540.title" = "iA Writerの新しい機能紹介";
+
+/* Class = "NSMenuItem"; title = "Spelling and Grammar"; ObjectID = "652"; */
+"652.title" = "スペル チェックと文章校正";
+
+/* Class = "NSMenu"; title = "Spelling and Grammar"; ObjectID = "653"; */
+"653.title" = "スペル チェックと文章校正";
+
+/* Class = "NSMenuItem"; title = "Correct Spelling Automatically"; ObjectID = "654"; */
+"654.title" = "自動スペル チェック";
+
+/* Class = "NSMenuItem"; title = "Check Grammar With Spelling"; ObjectID = "656"; */
+"656.title" = "自動スペル チェックと自動文章校正";
+
+/* Class = "NSMenuItem"; title = "Show Spelling and Grammar"; ObjectID = "657"; */
+"657.title" = "スペル チェックと文章校正を表示";
+
+/* Class = "NSMenuItem"; title = "Check Document Now"; ObjectID = "658"; */
+"658.title" = "ドキュメントをチェックする";
+
+/* Class = "NSMenuItem"; title = "Check Spelling While Typing"; ObjectID = "659"; */
+"659.title" = "自動的にスペル　チェックを行う";
+
+/* Class = "NSMenuItem"; title = "Strong"; ObjectID = "677"; */
+"677.title" = "太字";
+
+/* Class = "NSMenuItem"; title = "Emphasis"; ObjectID = "678"; */
+"678.title" = "イタリック";
+
+/* Class = "NSMenuItem"; title = "Substitutions"; ObjectID = "690"; */
+"690.title" = "代替";
+
+/* Class = "NSMenu"; title = "Substitutions"; ObjectID = "691"; */
+"691.title" = "代替";
+
+/* Class = "NSMenuItem"; title = "Show Substitutions"; ObjectID = "694"; */
+"694.title" = "代替表示";
+
+/* Class = "NSMenuItem"; title = "Smart Dashes"; ObjectID = "695"; */
+"695.title" = "スマート点線";
+
+/* Class = "NSMenuItem"; title = "Smart Quotes"; ObjectID = "697"; */
+"697.title" = "スマート括弧";
+
+/* Class = "NSMenuItem"; title = "Smart Copy/Paste"; ObjectID = "698"; */
+"698.title" = "スマートコピー／貼り付け";
+
+/* Class = "NSMenuItem"; title = "Text Replacement"; ObjectID = "706"; */
+"706.title" = "テキスト置換";
+
+/* Class = "NSMenuItem"; title = "Use Selection for Find"; ObjectID = "713"; */
+"713.title" = "選択部分を検索";
+
+/* Class = "NSMenuItem"; title = "Rate on the Mac App Store"; ObjectID = "728"; */
+"728.title" = "App Storeで評価";
+
+/* Class = "NSMenuItem"; title = "Export…"; ObjectID = "730"; */
+"730.title" = "書き出し…";
+
+/* Class = "NSMenuItem"; title = "Copy HTML"; ObjectID = "736"; */
+"736.title" = "HTMLをコピー";
+
+/* Class = "NSMenuItem"; title = "Find and Replace…"; ObjectID = "743"; */
+"743.title" = "検索または置換…";
+
+/* Class = "NSMenuItem"; title = "Strikethrough"; ObjectID = "757"; */
+"757.title" = "取消線";
+
+/* Class = "NSMenuItem"; title = "Heading 1"; ObjectID = "761"; */
+"761.title" = "H1 見出し";
+
+/* Class = "NSMenuItem"; title = "Unordered List"; ObjectID = "764"; */
+"764.title" = "リスト";
+
+/* Class = "NSMenuItem"; title = "Clear Styles"; ObjectID = "766"; */
+"766.title" = "スタイルをクリア";
+
+/* Class = "NSMenuItem"; title = "Heading 2"; ObjectID = "767"; */
+"767.title" = "H2 見出し";
+
+/* Class = "NSMenuItem"; title = "Heading 3"; ObjectID = "768"; */
+"768.title" = "H3 見出し";
+
+/* Class = "NSMenuItem"; title = "Heading 4"; ObjectID = "769"; */
+"769.title" = "H4 見出し";
+
+/* Class = "NSMenuItem"; title = "Heading 5"; ObjectID = "770"; */
+"770.title" = "H5 見出し";
+
+/* Class = "NSMenuItem"; title = "Heading 6"; ObjectID = "771"; */
+"771.title" = "H6 見出し";
+
+/* Class = "NSMenuItem"; title = "Ordered List"; ObjectID = "776"; */
+"776.title" = "番号付きリスト";
+
+/* Class = "NSMenuItem"; title = "Zoom In"; ObjectID = "14Z-T9-ghK"; */
+"14Z-T9-ghK.title" = "ズーム イン";
+
+/* Class = "NSMenuItem"; title = "New Draft on Medium"; ObjectID = "1IM-bR-x3t"; */
+"1IM-bR-x3t.title" = "Mediumで新規下書き";
+
+/* Class = "NSMenuItem"; title = "Adverbs"; ObjectID = "2rU-0c-Fde"; Note = "SKIP LOCALIZATION"; */
+"2rU-0c-Fde.title" = "副詞";
+
+/* Class = "NSMenuItem"; title = "Make Lower Case"; ObjectID = "2v1-iT-23S"; */
+"2v1-iT-23S.title" = "小文字にする";
+
+/* Class = "NSMenuItem"; title = "Move Line Up"; ObjectID = "31i-Zt-4nU"; */
+"31i-Zt-4nU.title" = "行移動上";
+
+/* Class = "NSMenuItem"; title = "Start Speaking"; ObjectID = "3k5-Ng-E0x"; */
+"3k5-Ng-E0x.title" = "スピーチ開始";
+
+/* Class = "NSMenu"; title = "Sort Files By"; ObjectID = "4Pv-de-LIC"; */
+"4Pv-de-LIC.title" = "ファイルの並べ替え";
+
+/* Class = "NSMenuItem"; title = "Text Size"; ObjectID = "4e7-W3-T62"; */
+"4e7-W3-T62.title" = "テキストサイズ";
+
+/* Class = "NSMenuItem"; title = "Add Page Break"; ObjectID = "4ls-Rs-YBF"; */
+"4ls-Rs-YBF.title" = "ページ区切りを追加";
+
+/* Class = "NSMenuItem"; title = "Show Preview"; ObjectID = "6d8-gB-gmV"; Note = "SKIP LOCALIZATION"; */
+"6d8-gB-gmV.title" = "プレビュー表示";
+
+/* Class = "NSMenuItem"; title = "Copy Formatted"; ObjectID = "6dA-y4-hCQ"; */
+"6dA-y4-hCQ.title" = "フォーマット済テキストをコピー";
+
+/* Class = "NSMenuItem"; title = "Stats Only"; ObjectID = "TcI-cP-nWB"; Note = "SKIP LOCALIZATION"; */
+"TcI-cP-nWB.title" = "統計情報";
+
+/* Class = "NSMenuItem"; title = "Sort Files By"; ObjectID = "7Tu-74-DMo"; */
+"7Tu-74-DMo.title" = "ファイルの並べ替え";
+
+/* Class = "NSMenuItem"; title = "New Tab in Library"; ObjectID = "7oS-VZ-vDq"; */
+"7oS-VZ-vDq.title" = "ライブラリに新規タブ";
+
+/* Class = "NSMenuItem"; title = "Visit Online Support"; ObjectID = "7vb-VJ-lxX"; */
+"7vb-VJ-lxX.title" = "オンラインサポートを開く";
+
+/* Class = "NSMenu"; title = "View"; ObjectID = "8JJ-MZ-cn8"; */
+"8JJ-MZ-cn8.title" = "表示";
+
+/* Class = "NSMenuItem"; title = "Capitalize"; ObjectID = "9cn-bG-2ki"; */
+"9cn-bG-2ki.title" = "語頭を大文字にする";
+
+/* Class = "NSMenuItem"; title = "Transformations"; ObjectID = "AYB-fK-6qu"; */
+"AYB-fK-6qu.title" = "変換";
+
+/* Class = "NSMenuItem"; title = "Footnote"; ObjectID = "Aaw-jt-2hg"; */
+"Aaw-jt-2hg.title" = "脚注追加";
+
+/* Class = "NSMenuItem"; title = "Show Filter Bar"; ObjectID = "CDK-JV-i5Y"; Note = "SKIP LOCALIZATION"; */
+"CDK-JV-i5Y.title" = "フィルターバーを表示";
+
+/* Class = "NSMenuItem"; title = "Show in Library"; ObjectID = "Cpv-uS-hze"; */
+"Cpv-uS-hze.title" = "ライブラリ内に表示";
+
+/* Class = "NSMenuItem"; title = "Add Table of Contents"; ObjectID = "DPy-JT-lWH"; */
+"DPy-JT-lWH.title" = "目次追加";
+
+/* Class = "NSMenuItem"; title = "Shift Right"; ObjectID = "Drd-8F-Uaf"; */
+"Drd-8F-Uaf.title" = "シフト右";
+
+/* Class = "NSMenuItem"; title = "Quick Search"; ObjectID = "Dss-9L-8xE"; */
+"Dss-9L-8xE.title" = "クイック検索";
+
+/* Class = "NSMenuItem"; title = "Add Table"; ObjectID = "E9e-Rh-FJM"; */
+"E9e-Rh-FJM.title" = "テーブル追加";
+
+/* Class = "NSMenuItem"; title = "Adjectives"; ObjectID = "EAw-Na-Fu7"; Note = "SKIP LOCALIZATION"; */
+"EAw-Na-Fu7.title" = "形容詞";
+
+/* Class = "NSMenuItem"; title = "Preferences…"; ObjectID = "EMn-lO-Ntt"; */
+"EMn-lO-Ntt.title" = "環境設定…";
+
+/* Class = "NSMenuItem"; title = "New Tab"; ObjectID = "Ezh-da-Rh2"; */
+"Ezh-da-Rh2.title" = "New Tab";
+
+/* Class = "NSMenuItem"; title = "Verbs"; ObjectID = "G0m-Wh-Wa9"; Note = "SKIP LOCALIZATION"; */
+"G0m-Wh-Wa9.title" = "動詞";
+
+/* Class = "NSMenuItem"; title = "Speech"; ObjectID = "GLD-3h-cCe"; */
+"GLD-3h-cCe.title" = "スピーチ";
+
+/* Class = "NSMenu"; title = "Toolbar"; ObjectID = "GTD-PG-9ZK"; */
+"GTD-PG-9ZK.title" = "ツールバー";
+
+/* Class = "NSMenu"; title = "Format"; ObjectID = "GWQ-RT-dPL"; */
+"GWQ-RT-dPL.title" = "フォーマット";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Hl3-0o-vGs"; */
+"Hl3-0o-vGs.title" = "デフォルト";
+
+/* Class = "NSMenuItem"; title = "Share"; ObjectID = "IYK-Be-SXu"; */
+"IYK-Be-SXu.title" = "共有";
+
+/* Class = "NSMenuItem"; title = "Ascending"; ObjectID = "K0l-2A-eAA"; */
+"K0l-2A-eAA.title" = "Ascending";
+
+/* Class = "NSMenuItem"; title = "Make Title Case"; ObjectID = "KBV-gu-Ege"; */
+"KBV-gu-Ege.title" = "語頭を大文字にする（ヘッドラインスタイル）";
+
+/* Class = "NSMenuItem"; title = "Show All Tabs"; ObjectID = "KBk-l8-2xM"; Note = "SKIP LOCALIZATION"; */
+"KBk-l8-2xM.title" = "すべてのタブを表示";
+
+/* Class = "NSMenu"; title = "Speech"; ObjectID = "LYz-UD-Dee"; */
+"LYz-UD-Dee.title" = "スピーチ";
+
+/* Class = "NSMenu"; title = "Lists"; ObjectID = "MYT-KB-FZh"; */
+"MYT-KB-FZh.title" = "リスト";
+
+/* Class = "NSMenuItem"; title = "View"; ObjectID = "MYU-Jq-sus"; */
+"MYU-Jq-sus.title" = "表示";
+
+/* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "MZq-l1-Nb8"; Note = "SKIP LOCALIZATION"; */
+"MZq-l1-Nb8.title" = "文";
+
+/* Class = "NSMenu"; title = "Structure"; ObjectID = "Ms4-vT-m4G"; */
+"Ms4-vT-m4G.title" = "構成";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "N72-ZJ-nQT"; */
+"N72-ZJ-nQT.title" = "名前";
+
+/* Class = "NSMenu"; ibExternalAccessibilityDescription = "Dock Menu"; ObjectID = "O60-31-O7a"; */
+"O60-31-O7a.ibExternalAccessibilityDescription" = "ドック メニュー";
+
+/* Class = "NSMenuItem"; title = "Default"; ObjectID = "Hl3-0o-vGs"; */
+"Hl3-0o-vGs.title" = "デフォルト";
+
+/* Class = "NSMenuItem"; title = "Enter Full Screen"; ObjectID = "Ofm-dK-n9w"; Note = "SKIP LOCALIZATION"; */
+"Ofm-dK-n9w.title" = "全画面表示";
+
+/* Class = "NSMenuItem"; title = "Add Horizontal Rule"; ObjectID = "Pfk-jy-BKg"; */
+"Pfk-jy-BKg.title" = "水平線を追加";
+
+/* Class = "NSMenuItem"; title = "Kind"; ObjectID = "Pqq-PE-FNk"; */
+"Pqq-PE-FNk.title" = "種類";
+
+/* Class = "NSMenuItem"; title = "Show Library"; ObjectID = "RKB-Zq-q2A"; Note = "SKIP LOCALIZATION"; */
+"RKB-Zq-q2A.title" = "ライブラリ表示";
+
+/* Class = "NSMenuItem"; title = "Templates"; ObjectID = "RUq-jy-AKe"; */
+"RUq-jy-AKe.title" = "テンプレート";
+
+/* Class = "NSMenuItem"; title = "Mark Task as Completed"; ObjectID = "RVT-Ja-lWk"; */
+"RVT-Ja-lWk.title" = "完了としてマーク";
+
+/* Class = "NSMenuItem"; title = "Zoom Out"; ObjectID = "RVh-9x-N9T"; */
+"RVh-9x-N9T.title" = "ズームアウト";
+
+/* Class = "NSMenuItem"; title = "Show in Finder"; ObjectID = "Rhr-5m-bcX"; */
+"Rhr-5m-bcX.title" = "Finderに表示";
+
+/* Class = "NSMenuItem"; title = "Make Upper Case"; ObjectID = "S9Z-zm-s36"; */
+"S9Z-zm-s36.title" = "大文字にする";
+
+/* Class = "NSMenuItem"; title = "Blockquote"; ObjectID = "T8p-6L-CKh"; */
+"T8p-6L-CKh.title" = "ブロッククオート";
+
+/* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "UVF-We-TtK"; Note = "SKIP LOCALIZATION"; */
+"UVF-We-TtK.title" = "タイプライター";
+
+/* Class = "NSMenuItem"; title = "Preview Width"; ObjectID = "UcO-3O-k5v"; */
+"UcO-3O-k5v.title" = "幅変更";
+
+/* Class = "NSMenuItem"; title = "Stop Speaking"; ObjectID = "UhO-wG-w1d"; */
+"UhO-wG-w1d.title" = "スピーチ終了";
+
+/* Class = "NSMenu"; title = "Share"; ObjectID = "Unu-u1-EIe"; */
+"Unu-u1-EIe.title" = "共有";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "Vya-Iv-4En"; */
+"Vya-Iv-4En.title" = "新規";
+
+/* Class = "NSMenuItem"; title = "Nouns"; ObjectID = "W5h-Z0-iGd"; Note = "SKIP LOCALIZATION"; */
+"W5h-Z0-iGd.title" = "名詞";
+
+/* Class = "NSMenuItem"; title = "Check for Updates…"; ObjectID = "Wn3-BO-WTu"; */
+"Wn3-BO-WTu.title" = "アップデートを確認…";
+
+/* Class = "NSMenuItem"; title = "Headings"; ObjectID = "XIJ-UR-pqE"; */
+"XIJ-UR-pqE.title" = "見出し";
+
+/* Class = "NSMenuItem"; title = "Format"; ObjectID = "XKY-rK-pZ5"; */
+"XKY-rK-pZ5.title" = "Format";
+
+/* Class = "NSMenu"; title = "Headings"; ObjectID = "XeT-NB-Att"; */
+"XeT-NB-Att.title" = "見出し";
+
+/* Class = "NSMenu"; title = "Transformations"; ObjectID = "XjP-sn-l9z"; */
+"XjP-sn-l9z.title" = "変換";
+
+/* Class = "NSMenuItem"; title = "Replace"; ObjectID = "XrX-Rr-J73"; */
+"XrX-Rr-J73.title" = "置換";
+
+/* Class = "NSMenuItem"; title = "Ordered Task List"; ObjectID = "Yfg-br-Ti0"; */
+"Yfg-br-Ti0.title" = "番号付きタスクリスト";
+
+/* Class = "NSMenuItem"; title = "Conjunctions"; ObjectID = "Yqt-51-woO"; Note = "SKIP LOCALIZATION"; */
+"Yqt-51-woO.title" = "接続詞";
+
+/* Class = "NSMenuItem"; title = "Focus"; ObjectID = "Yvk-in-ABn"; */
+"Yvk-in-ABn.title" = "フォーカス";
+
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "Z4R-Ya-gNJ"; */
+"Z4R-Ya-gNJ.title" = "更新日時";
+
+/* Class = "NSMenuItem"; title = "Contact Us on Twitter"; ObjectID = "ZCr-JT-kwd"; */
+"ZCr-JT-kwd.title" = "Twitterで連絡する";
+
+/* Class = "NSMenuItem"; title = "New in Library"; ObjectID = "ZGc-XD-4b3"; */
+"ZGc-XD-4b3.title" = "ライブラリー内に新規ファイル";
+
+/* Class = "NSMenuItem"; title = "Night Mode"; ObjectID = "ZaG-9j-uqb"; Note = "SKIP LOCALIZATION"; */
+"ZaG-9j-uqb.title" = "ナイトモード";
+
+/* Class = "NSMenu"; title = "Templates"; ObjectID = "ZfB-tX-XLB"; */
+"ZfB-tX-XLB.title" = "テンプレート";
+
+/* Class = "NSMenuItem"; title = "Half"; ObjectID = "Zkb-0q-r8W"; */
+"Zkb-0q-r8W.title" = "半分";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "aM4-j0-Xa0"; Note = "SKIP LOCALIZATION"; */
+"aM4-j0-Xa0.title" = "段落";
+
+/* Class = "NSMenuItem"; title = "New in Library in Window"; ObjectID = "aoh-WB-Ymx"; */
+"aoh-WB-Ymx.title" = "ウインドウ内ライブラリの新規ファイル";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "c6c-A9-eCX"; */
+"c6c-A9-eCX.title" = "常に表示";
+
+/* Class = "NSMenuItem"; title = "Unordered Task List"; ObjectID = "d1A-ka-CIp"; */
+"d1A-ka-CIp.title" = "タスクリスト";
+
+/* Class = "NSMenuItem"; title = "Enable Syntax Highlight"; ObjectID = "dZV-Rh-ryD"; Note = "SKIP LOCALIZATION"; */
+"dZV-Rh-ryD.title" = "シンタックスハイライトを有効化";
+
+/* Class = "NSMenuItem"; title = "New"; ObjectID = "eRI-jE-EpF"; */
+"eRI-jE-EpF.title" = "新規";
+
+/* Class = "NSMenuItem"; title = "Link"; ObjectID = "gHR-aY-uy5"; */
+"gHR-aY-uy5.title" = "リンク追加";
+
+/* Class = "NSMenu"; title = "Focus"; ObjectID = "hWZ-LO-mHH"; */
+"hWZ-LO-mHH.title" = "フォーカス";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "huC-mz-p9j"; */
+"huC-mz-p9j.title" = "非表示化";
+
+/* Class = "NSMenuItem"; title = "New Draft on WordPress"; ObjectID = "hzg-LL-0Fw"; */
+"hzg-LL-0Fw.title" = "WordPressで新規下書き";
+
+/* Class = "NSMenuItem"; title = "Reload Preview"; ObjectID = "i9v-5S-h0b"; */
+"i9v-5S-h0b.title" = "Reload Preview";
+
+/* Class = "NSMenuItem"; title = "Replace All"; ObjectID = "iJk-Ln-4Oq"; */
+"iJk-Ln-4Oq.title" = "全部置き換え";
+
+/* Class = "NSMenuItem"; title = "Body"; ObjectID = "iRF-TA-hvW"; */
+"iRF-TA-hvW.title" = "本文";
+
+/* Class = "NSMenuItem"; title = "Lists"; ObjectID = "ib5-IO-tce"; */
+"ib5-IO-tce.title" = "リスト";
+
+/* Class = "NSMenuItem"; title = "Show Sort Bar"; ObjectID = "ilb-CU-0hm"; Note = "SKIP LOCALIZATION"; */
+"ilb-CU-0hm.title" = "並べ替えバーを表示";
+
+/* Class = "NSMenuItem"; title = "Go"; ObjectID = "j2a-aQ-7dg"; */
+"j2a-aQ-7dg.title" = "ライブラリ";
+
+/* Class = "NSMenuItem"; title = "Print Plain Text…"; ObjectID = "nmZ-Vd-0HN"; */
+"nmZ-Vd-0HN.title" = "テキストを印刷する…";
+
+/* Class = "NSMenuItem"; title = "Show Tab Bar"; ObjectID = "npv-5M-u3X"; Note = "SKIP LOCALIZATION"; */
+"npv-5M-u3X.title" = "タブバーを表示";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "pIo-vg-pZd"; */
+"pIo-vg-pZd.title" = "フェードイン・アウト";
+
+/* Class = "NSMenuItem"; title = "Descending"; ObjectID = "pJe-0c-qV5"; */
+"pJe-0c-qV5.title" = "Descending";
+
+/* Class = "NSMenu"; title = "Preview Width"; ObjectID = "pqw-KA-huh"; */
+"pqw-KA-huh.title" = "幅を変更";
+
+/* Class = "NSMenuItem"; title = "Toolbar"; ObjectID = "pur-a2-Aeh"; */
+"pur-a2-Aeh.title" = "ツールバー";
+
+/* Class = "NSMenuItem"; title = "Search Library..."; ObjectID = "qHW-3c-Ttt"; */
+"qHW-3c-Ttt.title" = "ライブラリ検索";
+
+/* Class = "NSMenuItem"; title = "Structure"; ObjectID = "qdR-wu-hiC"; */
+"qdR-wu-hiC.title" = "構成";
+
+/* Class = "NSMenuItem"; title = "Page Setup…"; ObjectID = "tAr-9g-Fab"; */
+"tAr-9g-Fab.title" = "ページ設定…";
+
+/* Class = "NSMenuItem"; title = "Show Organizer"; ObjectID = "taf-dz-PMT"; Note = "SKIP LOCALIZATION"; */
+"taf-dz-PMT.title" = "Show Source List";
+
+/* Class = "NSMenuItem"; title = "Move Line Down"; ObjectID = "uOS-79-CAj"; */
+"uOS-79-CAj.title" = "行移動下";
+
+/* Class = "NSMenuItem"; title = "Enable Focus Mode"; ObjectID = "urZ-cG-Loa"; Note = "SKIP LOCALIZATION"; */
+"urZ-cG-Loa.title" = "Enable Focus Mode";
+
+/* Class = "NSMenu"; title = "Text Size"; ObjectID = "vw0-fL-fUK"; */
+"vw0-fL-fUK.title" = "テキストサイズ";
+
+/* Class = "NSMenuItem"; title = "Full"; ObjectID = "xQm-Ed-ske"; */
+"xQm-Ed-ske.title" = "フルサイズ";
+
+/* Class = "NSMenu"; title = "Go"; ObjectID = "yeD-Je-aOs"; */
+"yeD-Je-aOs.title" = "移動";
+
+/* Class = "NSMenuItem"; title = "Shift Left"; ObjectID = "zO2-18-ibZ"; */
+"zO2-18-ibZ.title" = "シフト左";

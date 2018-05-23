@@ -1,0 +1,45 @@
+
+/* Class = "NSMenuItem"; title = "Date Modified"; ObjectID = "5cq-Pu-8y9"; Note = "SKIP LOCALIZATION"; */
+"5cq-Pu-8y9.title" = "Fecha de modificación";
+
+/* Class = "NSButtonCell"; title = "Show text excerpts"; ObjectID = "9c8-RY-Bqq"; */
+"9c8-RY-Bqq.title" = "Mostrar extractos de texto";
+
+/* Class = "NSButtonCell"; title = "Add Library Location"; ObjectID = "BGx-AI-dtZ"; */
+"BGx-AI-dtZ.title" = "Agregar ubicación de biblioteca";
+
+/* Class = "NSButtonCell"; title = "Newest on Top"; ObjectID = "KqX-Gc-m0e"; */
+"KqX-Gc-m0e.title" = "Novedades arriba";
+
+/* Class = "NSTextFieldCell"; title = "Locations:"; ObjectID = "MSc-bD-EBo"; */
+"MSc-bD-EBo.title" = "Ubicaciones:";
+
+/* Class = "NSButtonCell"; title = "Pin folders to top"; ObjectID = "SOG-kM-c2S"; */
+"SOG-kM-c2S.title" = "Fijar carpetas arriba";
+
+/* Class = "NSButtonCell"; title = "Oldest on Top"; ObjectID = "Usl-VQ-WXd"; */
+"Usl-VQ-WXd.title" = "Más viejo arriba";
+
+/* Class = "NSButtonCell"; title = "Show sort bar"; ObjectID = "ggC-OU-ShT"; */
+"ggC-OU-ShT.title" = "Mostrar barra de ordenación";
+
+/* Class = "NSButtonCell"; title = "Show extensions"; ObjectID = "glA-Sr-Lyf"; */
+"glA-Sr-Lyf.title" = "Mostrar extensiones";
+
+/* Class = "NSButtonCell"; title = "Show filter bar"; ObjectID = "htJ-5i-qBe"; */
+"htJ-5i-qBe.title" = "Mostrar barra de filtro";
+
+/* Class = "NSTextFieldCell"; title = "View options:"; ObjectID = "i4z-3b-PV5"; */
+"i4z-3b-PV5.title" = "Opciones de vista:";
+
+/* Class = "NSMenuItem"; title = "Extension"; ObjectID = "iJN-Ml-9Yx"; Note = "SKIP LOCALIZATION"; */
+"iJN-Ml-9Yx.title" = "Extensión";
+
+/* Class = "NSTextFieldCell"; title = "Sort by:"; ObjectID = "kND-5E-Z2a"; */
+"kND-5E-Z2a.title" = "Ordenar por:";
+
+/* Class = "NSMenuItem"; title = "Name"; ObjectID = "oft-9R-Obz"; Note = "SKIP LOCALIZATION"; */
+"oft-9R-Obz.title" = "Nombre";
+
+/* Class = "NSButtonCell"; title = "Remove Library Location"; ObjectID = "zUl-5x-HVx"; */
+"zUl-5x-HVx.title" = "Eliminar ubicación de la biblioteca";

@@ -1,0 +1,432 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable night mode. */
+"Menu_Enable_Night_Mode" = "Modalità Notte";
+
+/* Menu title to disable night mode and enable day mode. */
+"Menu_Disable_Night_Mode" = "Modalità Giorno";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "Nuovo nella Libreria";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "Nuovo";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "Nuova scheda nella Libreria";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "Nuova scheda";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "Predefinito";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "Solo statistiche";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "Copia formattata";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "Copia HTML";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "Acquista ora";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "Benvenuto su iA Writer.\nQuesta versione di prova ti permetterà di provare gratuitamente tutte le funzioni.";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "Il periodo di prova è scaduto. Speriamo che iA Writer ti sia piaciuta.";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "Modello «%@» installato";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "Puoi accedere ai modelli in Anteprima e Visualizza > Modelli. Puoi disinstallare i modelli in Preferenze.";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer aggiornato alla versione %@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "Clicca per leggere le note sulla versione.";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "Esporta";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "Esporta";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "Esporta come:";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "Esporta in:";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "Compatibile con Microsoft Word 2007–2013.";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "HTML generico.";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "Per cambiare il layout del PDF, seleziona File > Configurazione pagina.";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "Compatibile con altri editor.";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "Archivio progetto";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "Include blocchi di contenuti associati.";
+
+/* Checkmark title in print options. */
+"Print_Header" = "Stampa intestazione";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "Stampa piè di pagina";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "Condividi";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "Dove vorresti creare la bozza?";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "L’account di WordPress ha l’accesso a più di un sito.";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "Nascondi Libreria";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "Nascondi anteprima";
+
+/* Menu item to show library. */
+"Show_Library" = "Mostra Libreria";
+
+/* Menu item to show preview. */
+"Show_Preview" = "Mostra anteprima";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "Mostra Organizer";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "Nascondi Organizer";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "Mostra barra dei filtri";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "Nascondi barra dei filtri";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "Mostra barra di ordinamento";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "Nascondi barra di ordinamento";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "Esporta";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "Mezza larghezza";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "Larghezza intera";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "Nessun contenuto da visualizzare in anteprima";
+
+/*------
+ Library
+ ------*/
+
+/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
+"Library_Location_Description" = "Le posizioni nella Libreria sono perfette per accedere rapidamente alle cartelle con la maggior parte dei tuoi documenti fuori da iCloud.\nSono indicizzati per una navigazione rapida e la ricerca completa del testo.\nCartelle troppo grandi potrebbero incidere negativamente sulle prestazioni.";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "Indietro";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "Avanti";
+
+/* Open indicator text in table view. */
+"Library_Open_Indicator_Text" = "Aperto";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "Elimina";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "Eliminare «%@»?";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "Questa azione è irreversibile.";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "Elimina";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "Documenti vuoti";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "Aggiornamento...";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "Nuovo file";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "Nuova cartella";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "Nuova cartella con selezione";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "Apri in nuova finestra";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "Apri in nuova scheda";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "Apri con %@";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "Rinomina";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "Ottieni informazioni";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "Ordina per";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "Aggiungi ai Preferiti";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "Rimuovi dai Preferiti";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "Rimuovi dalle posizioni";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "Mostra nel Finder";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "Mostra nella Libreria";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "Filtro";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "Caricamento dei documenti... In caso di una Libreria di grandi dimensioni, potrebbe richiedere qualche minuto.";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "Sposta";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "Sposta in «%@»";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "Copia in «%@»";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "Stai modificando un documento fuori dalla Libreria di iA Writer. Puoi continuare a modificarlo oppure spostarlo nella Libreria.";
+
+/* Search title. */
+"Library_Search_Title" = "Risultati di ricerca";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Modificato";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Creato";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Nome";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Estensione";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Dimensioni";
+
+"Library_Root_Locations" = "Posizioni";
+
+"Library_Root_Favorites" = "Preferiti";
+
+"Library_Root_Smart_Folders" = "Cartelle intelligenti";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "Abilita modalità Focus";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "Disabilita modalità Focus";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "Abilita Sintassi evidenziata";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "Disabilita Sintassi evidenziata";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "Tutte Iniziali Maiuscole";
+
+/* List block element name. */
+"Block_Element_List" = "Elenco";
+
+/* Task list block element name. */
+"Block_Element_Task" = "Attività";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "Elenco ordinato";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "Attività ordinata";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "Titolo 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "Titolo 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "Titolo 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "Titolo 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "Titolo 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "Titolo 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "Blockquote";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "Corpo";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "Neretto";
+
+/* Italic inline element name. */
+"Inline_Element_Italic" = "Corsivo";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "Barrato";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "Corpo del testo";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "Nota a piè di pagina";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "Link";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "Tabella";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "Regola le dimensioni della scheda. La prima riga conterrà il titolo della tabella.";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "colonne";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "righe";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "Indice";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "Generale";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "File";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "Libreria";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "Editor";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "Modelli";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "Ricerca rapida";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "Impossibile elaborare contenuti.";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "Titoli";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "Elenchi";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "Elementi in linea";

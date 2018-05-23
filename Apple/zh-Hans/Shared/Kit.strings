@@ -1,0 +1,267 @@
+
+"Button_OK" = "确定";
+"Button_Cancel" = "取消​​";
+"Button_Try_Again" = "重试";
+"Button_Share" = "分享";
+"Button_Close" = "关闭";
+"Button_Continue" = "继续";
+
+"Unknown_Error_Title" = "未知错误";
+"Unknown_Error" = "发生未知错误。";
+"Unknown_Recovery_Suggestion" = "请重试，然后联系客服。";
+
+"Default_Document_Name" = "无标题";
+"Default_Folder_Name" = "无标题文件夹";
+"Default_Image_Name" = "无标题";
+"Default_Smart_Folder_Name" = "无标题";
+"Default_Smart_Folder_Recently_Modified_Name" = "最新修改";
+
+"Paper_Size_A4" = "A4纸张";
+"Paper_Size_US_Letter" = "美式信笺";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "昨天";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "草稿";
+"Web_Service_Publish_Status_Unlisted" = "未加入列表";
+"Web_Service_Publish_Status_Public" = "公开";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "无响应";
+"Web_Service_Error_Missing_Response_Data" = "没有收到响应。";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "无效响应";
+"Web_Service_Error_Invalid_Response_Data" = "无法处理响应。";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "无效响应参数";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "收到不完整响应。";
+
+"Web_Service_Error_Unsupported_Content_Title" = "不支持的内容";
+"Web_Service_Error_Unsupported_Content" = "不支持此文档内的部分内容。";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "从文档中删除不支持的内容。";
+
+"Web_Service_Error_Invalid_Request_Title" = "无效请求";
+"Web_Service_Error_Invalid_Request" = "无效请求。";
+
+"Web_Service_Error_Unauthorized_Title" = "无授权请求";
+"Web_Service_Error_Unauthorized" = "访问令牌已吊销或有误。";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "请确保访问令牌有效并正确。";
+
+"Web_Service_Error_Forbidden_Title" = "受禁止请求";
+"Web_Service_Error_Forbidden" = "无权限执行此请求。";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "请确保账号有权限发布内容。";
+
+"Web_Service_Error_Other_Title" = "连接出错";
+"Web_Service_Error_Other" = "接入服务时收到错误。";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "访问被拒绝";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "访问账号被拒绝。";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "您必须批准对账号的访问，才可在iA Writer中使用。";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "请稍后重试。";
+
+"Medium_Failure_Reason_Unsupported_Content" = "部分元素显示效果可能存在出入：%@。";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = "， ";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "表格";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "脚注";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "混合列表项目";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "混合已排序列表项目";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "任务列表项目";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "标题5";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "标题6";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "目录";
+
+"WordPress_No_Sites_Error" = "未找到与您的WordPress账号相关联的站点。";
+"WordPress_No_Sites_Error_Title" = "未找到站点";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "请确保您已授权正确的账号，或者向您的WordPress账号添加新站点。";
+"WordPress_Manage_Sites" = "管理站点";
+
+"Web_Service_Image_Upload_Error" = "部分图片上传失败。";
+"Web_Service_Image_Upload_Error_Title" = "图片上传失败";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@：%2$@";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "缺失模板页";
+"Template_Error_Missing_Page" = "无法读取模板页。";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "请检查您是否在Info.plist中正确指定了“%@”。";
+
+"Template_Error_Undefined_Page_Title" = "未定义模板页";
+"Template_Error_Undefined_Page" = "无法找到模板页定义。";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "请在Info.plist中指定“%@”。";
+
+"Template_Error_Duplicate_Bundle_Title" = "复制模板";
+"Template_Error_Duplicate_Bundle" = "模板已安装。";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "如果您正在将“%@”升级为更新版本，请替换模板。变更模板识别符，同时安装两者。";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "替换";
+
+"Template_Error_Invalid_Bundle_Title" = "无效模板";
+"Template_Error_Invalid_Bundle" = "无法处理模板。";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "查看文档获取更多信息。";
+
+"Template_Error_Installed_Bundle_Title" = "模板已安装";
+"Template_Error_Installed_Bundle" = "模板已安装。";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "如果模板在iA Writer中不可用，请查看文档。";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "未知";
+"Storage_Name_Local" = "本地";
+"Storage_Name_On_My_Device" = "我的%@上";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "等距";
+"Font_Name_Duospaced" = "双距";
+
+"Font_Script_Support_Monospaced" = "支持文字：西里尔文，希腊文，拉丁文。";
+"Font_Script_Support_Duospaced" = "支持文字：拉丁文。";
+"Font_Script_Support_Other" = "其他文字将会使用系统字体。";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Ubiquitous_Item" = "无法将iCloud文件夹添加为Library Location。";
+"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "选中文件夹在iCloud内。";
+"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "请使用默认Library Location在iCloud中存储文档。若默认位置不在iCloud内，请在系统偏好中检查是否已为iA Writer启用iCloud。";
+
+"Library_Location_Error_Existing_Item" = "无法添加Library Location，因为文件夹或其子文件夹属于另一个Library Location。";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "选中文件夹或其子文件夹属于另一个Library Location。";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "请在添加选中文件夹前先行删除已存在的Library Location。";
+
+"Library_Location_Error_Not_Found" = "未找到Library Location。原因可能是已被删除，或者位于可弹出磁盘内。";
+"Library_Location_Error_Not_Found_Failure_Reason" = "未找到Library Location。";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "请接入可弹出磁盘访问Library Location。";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Descrition" = "文件“%@”已在外部经过变更。";
+"External_Change_Error_Recovery_Suggestion" = "文件已在iA Writer外经过修改。若将磁盘上的文件还原至旧版本，您在iA Writer上做出的任何变动均可能丢失。您也可点击“另存为”，将您的变动保存到另一个文件内。";
+"External_Change_Error_Keep_Action" = "保留iA Writer版本";
+"External_Change_Error_Revert_Action" = "还原";
+"External_Change_Error_Save_As_Action" = "另存为…";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_By_Name" = "名称";
+"Library_Sort_By_Extension" = "扩展名";
+"Library_Sort_By_Date_Modified" = "修改日期";
+"Library_Sort_By_Search_Rank" = "搜索级别";
+
+"Library_Sort_By_Name_Phrase" = "按名称排序";
+"Library_Sort_By_Extension_Phrase" = "按扩展名排序";
+"Library_Sort_By_Date_Modified_Phrase" = "按修改日期排序";
+"Library_Sort_By_Search_Rank_Phrase" = "按搜索级别排序";
+
+"Library_Sort_By_Date_Ascending" = "由旧到新";
+"Library_Sort_By_Date_Descending" = "由新到旧";
+
+"Library_Sort_By_Text_Ascending" = "从A到Z";
+"Library_Sort_By_Text_Descending" = "从Z到A";
+
+"Library_Sort_By_Search_Rank_Ascending" = "相关度倒序";
+"Library_Sort_By_Search_Rank_Descending" = "相关度顺序";
+
+"Library_Sort_By_Part_Joiner" = "， ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "句子";
+"Focus_Scope_Paragraph" = "段落";
+"Focus_Scope_Text" = "打字机";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "从存档提取文件失败。";
+"Zip_Operation_Error_Extraction_Failed_Title" = "提取失败";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "提取文件失败或存档为空。";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "“%@”不存在。";
+"Content_Block_Error_No_Such_File_Title" = "“%@”不存在";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "文件名可能有误。";
+
+"Content_Block_Error_Unable_To_Process" = "“%@”无法处理。";
+"Content_Block_Error_Unable_To_Process_Title" = "“%@”无法处理";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "文档格式可能有误。";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "CSV文件必须包含至少两行，方可生成表格。";
+
+"Content_Block_Error_Unknown_Extension" = "“%@”所用扩展名不被支持。";
+"Content_Block_Error_Unknown_Extension_Title" = "“%@”所用扩展名不被支持";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "内容块必须为纯文本文件或图像。";
+
+"Content_Block_Error_Recursive_Reference" = "“%@”内存在递归引用。";
+"Content_Block_Error_Recursive_Reference_Title" = "“%@”内存在递归引用";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "已忽略递归引用。";
+
+"Content_Block_Error_Unsupported_Location" = "内容块仅限Library中的文件支持。";
+"Content_Block_Error_Unsupported_Location_Title" = "不支持的位置";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "欲使用内容块，请将文件移动或复制到Library内。您可在偏好中向Library添加文件夹。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "内容块仅限%@Library中的文件支持。";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "%@读取时间";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "启用全部";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "启用上次使用项目";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "禁用全部";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "全部";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "无​​";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "名词";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "动词";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "形容词";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "副词";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "关联";

@@ -1,0 +1,54 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
+"561-vh-uzh.ibShadowedToolTip" = "Inverti i colori nella modalità notte nell’anteprima. I modelli personalizzati devono implementare la modalità notte per poter invertire i colori.";
+
+/* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
+"GBp-vd-erZ.title" = "Apri documentazione";
+
+/* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
+"ILS-Oy-k2r.title" = "Modelli predefiniti:";
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
+"NWz-SI-k1m.title" = "Anteprima:";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
+"NlF-W4-pAH.title" = "Intestazioni";
+
+/* Class = "NSTextFieldCell"; title = "Print:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "Stampa:";
+
+/* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
+"aq5-yb-Aik.title" = "Paragrafo di rientro";
+
+/* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
+"c4c-Wj-hKb.title" = "Titoli centrati";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
+"eLo-eM-g9t.title" = "Piè di pagina";
+
+/* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
+"eXK-ab-Lw9.title" = "Installa modello...";
+
+/* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
+"f2Y-kh-hVX.title" = "Inverti colori";
+
+/* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
+"h5a-TI-YPT.title" = "Disinstalla modello";
+
+/* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
+"nwP-qK-Y5q.title" = "Ottieni altri modelli";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
+"okQ-c2-ZeF.title" = "Autore:";
+
+/* Class = "NSTextFieldCell"; title = "Custom templates:"; ObjectID = "qc2-ag-Mwe"; */
+"qc2-ag-Mwe.title" = "Modelli personalizzati:";
+
+/* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
+"tEq-K2-EVY.title" = "Titoli numerati";
+
+/* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
+"wLN-Zi-CIU.title" = "Pagina del titolo";
+
+/* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
+"y8E-dF-Bfw.title" = "Installa modello";

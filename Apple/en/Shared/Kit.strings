@@ -1,0 +1,267 @@
+
+"Button_OK" = "OK";
+"Button_Cancel" = "Cancel";
+"Button_Try_Again" = "Try Again";
+"Button_Share" = "Share";
+"Button_Close" = "Close";
+"Button_Continue" = "Continue";
+
+"Unknown_Error_Title" = "Unknown Error";
+"Unknown_Error" = "Unknown error occured.";
+"Unknown_Recovery_Suggestion" = "Please try again, then contact support.";
+
+"Default_Document_Name" = "Untitled";
+"Default_Folder_Name" = "Untitled Folder";
+"Default_Image_Name" = "Untitled";
+"Default_Smart_Folder_Name" = "Untitled";
+"Default_Smart_Folder_Recently_Modified_Name" = "Recently Modified";
+
+"Paper_Size_A4" = "A4 Paper";
+"Paper_Size_US_Letter" = "US Letter Paper";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "Yesterday";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "Draft";
+"Web_Service_Publish_Status_Unlisted" = "Unlisted";
+"Web_Service_Publish_Status_Public" = "Public";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "No Response";
+"Web_Service_Error_Missing_Response_Data" = "Didn’t receive a response.";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "Invalid Response";
+"Web_Service_Error_Invalid_Response_Data" = "Cannot process a response.";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "Invalid Response Parameter";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "Received incomplete response.";
+
+"Web_Service_Error_Unsupported_Content_Title" = "Unsupported Content";
+"Web_Service_Error_Unsupported_Content" = "Some content in this document is not supported.";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "Remove unsupported content from the document.";
+
+"Web_Service_Error_Invalid_Request_Title" = "Invalid Request";
+"Web_Service_Error_Invalid_Request" = "Invalid request.";
+
+"Web_Service_Error_Unauthorized_Title" = "Unauthorized Request";
+"Web_Service_Error_Unauthorized" = "Access token has been revoked or is incorrect.";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "Make sure access token is active and correct.";
+
+"Web_Service_Error_Forbidden_Title" = "Forbidden Request";
+"Web_Service_Error_Forbidden" = "No permission to perform the request.";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "Make sure your account is allowed to post.";
+
+"Web_Service_Error_Other_Title" = "Connection Error";
+"Web_Service_Error_Other" = "Received an error when connecting to the service.";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "Access Denied";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "Access to account was denied.";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "You must approve access to your account to use it in iA Writer.";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "Please try again later.";
+
+"Medium_Failure_Reason_Unsupported_Content" = "Some elements may look different: %@.";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "tables";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "footnotes";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "nested list items";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "nested ordered list items";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "task list items";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "heading 5";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "heading 6";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "TOC";
+
+"WordPress_No_Sites_Error" = "Couldn’t find any sites associated with your WordPress account.";
+"WordPress_No_Sites_Error_Title" = "No Sites Found";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "Make you sure you authorized the right account, or add a new site to your WordPress account.";
+"WordPress_Manage_Sites" = "Manage Sites";
+
+"Web_Service_Image_Upload_Error" = "Failed to upload some images.";
+"Web_Service_Image_Upload_Error_Title" = "Image Upload Failed";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "Missing Template Page";
+"Template_Error_Missing_Page" = "Cannot read a template page.";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "Check if you correctly specified “%@” in Info.plist.";
+
+"Template_Error_Undefined_Page_Title" = "Undefined Template Page";
+"Template_Error_Undefined_Page" = "Cannot find a template page definition.";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "Please specify “%@” in Info.plist.";
+
+"Template_Error_Duplicate_Bundle_Title" = "Duplicate Template";
+"Template_Error_Duplicate_Bundle" = "Template is already installed.";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "Replace the template if you’re updating “%@” with a newer version. Change template identifier to install both.";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "Replace";
+
+"Template_Error_Invalid_Bundle_Title" = "Invalid Template";
+"Template_Error_Invalid_Bundle" = "Cannot process template.";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "Check documentation for more info.";
+
+"Template_Error_Installed_Bundle_Title" = "Template Is Installed";
+"Template_Error_Installed_Bundle" = "Template is already installed.";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "Check documentation if template is not available in iA Writer.";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "Unknown";
+"Storage_Name_Local" = "Local";
+"Storage_Name_On_My_Device" = "On My %@";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "Monospaced";
+"Font_Name_Duospaced" = "Duospaced";
+
+"Font_Script_Support_Monospaced" = "Supported scripts: Cyrillic, Greek, Latin.";
+"Font_Script_Support_Duospaced" = "Supported scripts: Latin.";
+"Font_Script_Support_Other" = "System fonts will be used for other scripts.";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Ubiquitous_Item" = "Cannot add a Library Location for a folder in iCloud.";
+"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "Selected folder is in iCloud.";
+"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Please use the default Library Location to store documents in iCloud. Check if iCloud is enabled for iA Writer in System Preferences if default location is not using iCloud.";
+
+"Library_Location_Error_Existing_Item" = "Cannot add a Library Location because the folder or its subfolder are a part of another Library Location.";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "Selected folder or its subfolder are a part of another Library Location.";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Remove existing Library Location before adding selected folder.";
+
+"Library_Location_Error_Not_Found" = "Cannot find Library Location. It may have been removed, or was located on an ejectable volume.";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Cannot find Library Location.";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "Connect ejectable volume to access Library Location.";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Descrition" = "The file “%@” was changed externally.";
+"External_Change_Error_Recovery_Suggestion" = "The file has been modified outside iA Writer. If you revert to the file on disk, any recent changes you made in iA Writer may be lost. You can also click Save As to save your changes to a different file.";
+"External_Change_Error_Keep_Action" = "Keep iA Writer Version";
+"External_Change_Error_Revert_Action" = "Revert";
+"External_Change_Error_Save_As_Action" = "Save As…";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_By_Name" = "Name";
+"Library_Sort_By_Extension" = "Extension";
+"Library_Sort_By_Date_Modified" = "Date Modified";
+"Library_Sort_By_Search_Rank" = "Search Relevance";
+
+"Library_Sort_By_Name_Phrase" = "Sort by Name";
+"Library_Sort_By_Extension_Phrase" = "Sort by Extension";
+"Library_Sort_By_Date_Modified_Phrase" = "Sort by Date Modified";
+"Library_Sort_By_Search_Rank_Phrase" = "Sort by Search Relevance";
+
+"Library_Sort_By_Date_Ascending" = "Oldest on Top";
+"Library_Sort_By_Date_Descending" = "Newest on Top";
+
+"Library_Sort_By_Text_Ascending" = "A to Z";
+"Library_Sort_By_Text_Descending" = "Z to A";
+
+"Library_Sort_By_Search_Rank_Ascending" = "Least Relevant on Top";
+"Library_Sort_By_Search_Rank_Descending" = "Most Relevant on Top";
+
+"Library_Sort_By_Part_Joiner" = ", ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "Sentence";
+"Focus_Scope_Paragraph" = "Paragraph";
+"Focus_Scope_Text" = "Typewriter";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "Failed to extract files from archive.";
+"Zip_Operation_Error_Extraction_Failed_Title" = "Extraction Failed";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "Failed to extract files or archive is empty.";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "“%@” does not exist.";
+"Content_Block_Error_No_Such_File_Title" = "“%@” Does Not Exist";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "File name may be wrong.";
+
+"Content_Block_Error_Unable_To_Process" = "“%@” could not be processed.";
+"Content_Block_Error_Unable_To_Process_Title" = "“%@” Could Not Be Processed";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "Document may have wrong formatting.";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "CSV files must contain at least two rows to generate a table.";
+
+"Content_Block_Error_Unknown_Extension" = "“%@” has unsupported extension.";
+"Content_Block_Error_Unknown_Extension_Title" = "“%@” Has Unsupported Extension";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Content blocks must be plain text files or images.";
+
+"Content_Block_Error_Recursive_Reference" = "“%@” contains a recursive reference.";
+"Content_Block_Error_Recursive_Reference_Title" = "“%@” Contains a Recursive Reference";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "Recursive references are ignored.";
+
+"Content_Block_Error_Unsupported_Location" = "Content blocks are supported only by files in Library.";
+"Content_Block_Error_Unsupported_Location_Title" = "Unsupported Location";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Move or copy file to Library to use content blocks. You can add folders to Library in Preferences.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Content blocks are supported only by files in %@ Library.";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "%@ Reading Time";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "Enable All";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "Enable Last Used";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "Disable All";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "All";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "None";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "Nouns";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "Verbs";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "Adjectives";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "Adverbs";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "Conjunctions";

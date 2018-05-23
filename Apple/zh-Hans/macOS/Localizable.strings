@@ -1,0 +1,432 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable night mode. */
+"Menu_Enable_Night_Mode" = "夜间模式";
+
+/* Menu title to disable night mode and enable day mode. */
+"Menu_Disable_Night_Mode" = "日间模式";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "在资料库中新建";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "新建";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "在资料库中新建选项卡";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "新建选项卡";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "默认";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "仅限统计数据";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "格式化复制";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "复制HTML";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "立即购买";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "欢迎使用iA Writer。\n您可在该试用版中免费试用所有特性。";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "试用已到期。希望您对iA Writer的使用感到满意。";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "已安装“%@”模板";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "您可在 预览和视图 > 模板 中访问模板。您可在 偏好 中卸载模板。";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer已更新至版本%@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "点击查看版本说明。";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "导出";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "导出";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "导出为：";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "导出至：";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word​​";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "兼容Microsoft Word 2007–2013。";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "通用HTML。";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "欲变更PDF版式，选择 文件 > 页面设置。";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "兼容其他编辑器。";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "项目存档";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "包含相关内容块。";
+
+/* Checkmark title in print options. */
+"Print_Header" = "打印页眉";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "打印页脚";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "分享";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "要在哪里创建草稿？";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "WordPress账号可访问多个站点。";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "隐藏资料库";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "隐藏预览";
+
+/* Menu item to show library. */
+"Show_Library" = "显示资料库";
+
+/* Menu item to show preview. */
+"Show_Preview" = "显示预览";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "显示管理栏";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "隐藏管理栏";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "显示筛选栏";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "隐藏筛选栏";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "显示排序栏";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "隐藏排序栏";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "导出";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "半角";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "全角";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "无内容可预览";
+
+/*------
+ Library
+ ------*/
+
+/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
+"Library_Location_Description" = "Library Location最适合快速访问iCloud以外存储文档最多的文件夹。\n系统已为它们建立索引，支持快速导航和全文本搜索。\n容量过大的文件夹可能会对系统性能造成不良影响。";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "返回​​";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "前进";
+
+/* Open indicator text in table view. */
+"Library_Open_Indicator_Text" = "已打开";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "刪除";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "是否确定删除“%@”？";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "此操作无法撤销。";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "刪除";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "空文档";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "正在更新…";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "新建文件";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "新建文件夹";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "选中新建文件夹";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "在新窗口中​​打开";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "在新选项卡中打开";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "使用%@打开";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "重命名​​";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "获取信息";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "排序方式";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "添加到​​收藏";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "从收藏中​​删除";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "从Locations中删除";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "在Finder中显示";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "在Library中显示";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "筛选​​器";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "正在加载文档……如果资料库容量较大，可能需要数分钟时间。";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "移动​​";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "移动到“%@”";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "复制到“%@”";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "您正在iA Writer的资料库外部编辑文档。您可继续编辑，或者将文档移动到资料库内。";
+
+/* Search title. */
+"Library_Search_Title" = "搜索结果";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "已修改";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "已创建";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "名称";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "扩展名";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "大小";
+
+"Library_Root_Locations" = "位置";
+
+"Library_Root_Favorites" = "收藏";
+
+"Library_Root_Smart_Folders" = "智能文件夹";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "启用聚焦模式";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "禁用聚焦模式";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "启用语法高亮";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "禁用语法高亮";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "使用字首大写";
+
+/* List block element name. */
+"Block_Element_List" = "列表";
+
+/* Task list block element name. */
+"Block_Element_Task" = "任务";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "已排序列表";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "已排序任务";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "标题1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "标题2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "标题3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "标题4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "标题5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "标题6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "块引用";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "主体";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "粗体";
+
+/* Italic inline element name. */
+"Inline_Element_Italic" = "斜体";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "删除线";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "正文文本";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "脚注";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "链接";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "表格​​";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "调整表格尺寸。第一行将包含表表格标题。";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "列";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "行";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "目录";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "通用";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "文件";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "资料库";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "编辑器";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "模板";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "快速搜索";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "部分内容无法处理。";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "标题";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "列表";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "行内元素";
