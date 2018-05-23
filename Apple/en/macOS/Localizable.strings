@@ -1,0 +1,432 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable night mode. */
+"Menu_Enable_Night_Mode" = "Night Mode";
+
+/* Menu title to disable night mode and enable day mode. */
+"Menu_Disable_Night_Mode" = "Day Mode";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "New in Library";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "New";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "New Tab in Library";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "New Tab";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "Default";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "Stats Only";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "Copy Formatted";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "Copy HTML";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "Buy Now";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "Welcome to iA Writer.\nThis trial version lets you enjoy\nall the features for free.";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "The trial expired. We hope you enjoyed using iA Writer.";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "Installed “%@” Template";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "You can access templates in Preview and View > Templates. You can uninstall templates in Preferences.";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer Updated to Version %@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "Click to see release notes.";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "Export";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "Export";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "Export As:";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "Export To:";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "Compatible with Microsoft Word 2007–2013.";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "Generic HTML.";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "To change PDF layout, choose File > Page Setup.";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "Compatible with other editors.";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "Project Archive";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "Includes associated content blocks.";
+
+/* Checkmark title in print options. */
+"Print_Header" = "Print header";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "Print footer";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "Share";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "Where would you like to create the draft?";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "WordPress account has access to more than one site.";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "Hide Library";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "Hide Preview";
+
+/* Menu item to show library. */
+"Show_Library" = "Show Library";
+
+/* Menu item to show preview. */
+"Show_Preview" = "Show Preview";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "Show Organizer";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "Hide Organizer";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "Show Filter Bar";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "Hide Filter Bar";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "Show Sort Bar";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "Hide Sort Bar";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "Export";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "Half-Width";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "Full-Width";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "No Content to Preview";
+
+/*------
+ Library
+ ------*/
+
+/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
+"Library_Location_Description" = "Library Locations are ideal for quick access to folders with most of your documents outside iCloud.\nThey are indexed for quick navigation and full text search.\nExcessively large folders may negatively affect performance.";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "Back";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "Forward";
+
+/* Open indicator text in table view. */
+"Library_Open_Indicator_Text" = "Is Open";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "Delete";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "Are you sure you want to delete “%@”?";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "This action can’t be undone.";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "Delete";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "Empty Document";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "Updating…";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "New File";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "New Folder";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "New Folder with Selection";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "Open in New Window";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "Open in New Tab";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "Open with %@";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "Rename";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "Get Info";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "Sort By";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "Add to Favorites";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "Remove from Favorites";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "Remove from Locations";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "Show in Finder";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "Show in Library";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "Filter";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "Loading documents… This may take a few minutes if you have a large library.";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "Move";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "Move to “%@”";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "Copy to “%@”";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "You’re editing a document outside iA Writer Library. You can continue editing, or you can move it to the Library.";
+
+/* Search title. */
+"Library_Search_Title" = "Search Results";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "Modified";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "Created";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "Name";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "Extension";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "Size";
+
+"Library_Root_Locations" = "Locations";
+
+"Library_Root_Favorites" = "Favorites";
+
+"Library_Root_Smart_Folders" = "Smart Folders";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "Enable Focus Mode";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "Disable Focus Mode";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "Enable Syntax Highlight";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "Disable Syntax Highlight";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "Make Title Case";
+
+/* List block element name. */
+"Block_Element_List" = "List";
+
+/* Task list block element name. */
+"Block_Element_Task" = "Task";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "Ordered List";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "Ordered Task";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "Heading 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "Heading 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "Heading 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "Heading 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "Heading 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "Heading 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "Blockquote";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "Body";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "Bold";
+
+/* Italic inline element name. */
+"Inline_Element_Italic" = "Italic";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "Strikethrough";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "Body Text";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "Footnote";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "Link";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "Table";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "Adjust table size. First row will contain table heading.";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "columns";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "rows";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "TOC";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "General";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "Files";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "Library";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "Editor";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "Templates";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "Quick Search";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "Could not process some content.";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "Headings";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "Lists";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "Inline Elements";

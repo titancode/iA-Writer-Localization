@@ -1,0 +1,54 @@
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "2TI-Xg-Wpo"; */
+"2TI-Xg-Wpo.title" = "Supprimer le compte";
+
+/* Class = "NSButtonCell"; title = "Night mode"; ObjectID = "4sT-yx-tZi"; */
+"4sT-yx-tZi.title" = "Mode nuit";
+
+/* Class = "NSButtonCell"; title = "Show dark icon in the Dock when launched"; ObjectID = "6bs-8A-CNl"; */
+"6bs-8A-CNl.title" = "Afficher l’icône foncée dans le Dock";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "7WB-bC-fey"; */
+"7WB-bC-fey.title" = "Supprimer le compte";
+
+/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
+"E5V-bl-YDo.title" = "WordPress :";
+
+/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
+"EKU-lN-yAq.title" = "Gestures :";
+
+/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
+"GOB-Zh-pBT.title" = "Medium :";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
+"LlI-C5-bpg.title" = "Barre d’outils :";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
+"Lup-ic-GtQ.title" = "Nom du compte";
+
+/* Class = "NSTextFieldCell"; title = "Colors:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "Couleurs :";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
+"SWw-D8-EqL.title" = "Fondu d’ouverture/de fermeture";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "Ajouter un compte";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "Ajouter un compte";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
+"c8E-lj-f6I.title" = "Masquer";
+
+/* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
+"ilj-nk-Mxd.title" = "Synchroniser le défilement de l’Aperçu avec l’Éditeur";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
+"j0k-Io-Sa4.title" = "Toujours afficher";
+
+/* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
+"pJV-vk-Inh.title" = "Balayer pour afficher la bibliothèque ou l’aperçu";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
+"sN4-AX-e4A.title" = "Nom du compte";
