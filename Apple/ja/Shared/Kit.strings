@@ -1,0 +1,267 @@
+
+"Button_OK" = "OK";
+"Button_Cancel" = "キャンセル";
+"Button_Try_Again" = "もう一度試す";
+"Button_Share" = "共有";
+"Button_Close" = "閉じる";
+"Button_Continue" = "続ける";
+
+"Unknown_Error_Title" = "不明なエラー";
+"Unknown_Error" = "不明なエラーが発生しました。";
+"Unknown_Recovery_Suggestion" = "もう一度試した後、サポートにご連絡ください。";
+
+"Default_Document_Name" = "名称未設定";
+"Default_Folder_Name" = "名称未設定フォルダ";
+"Default_Image_Name" = "名称未設定";
+"Default_Smart_Folder_Name" = "名称未設定";
+"Default_Smart_Folder_Recently_Modified_Name" = "最近変更されたファイル";
+
+"Paper_Size_A4" = "A4用紙";
+"Paper_Size_US_Letter" = "USレターサイズ";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "昨日";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "下書き";
+"Web_Service_Publish_Status_Unlisted" = "限定公開";
+"Web_Service_Publish_Status_Public" = "一般公開";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "応答なし";
+"Web_Service_Error_Missing_Response_Data" = "応答がありません。";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "無効な応答";
+"Web_Service_Error_Invalid_Response_Data" = "応答を処理できません。";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "無効なパラメーター";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "不完全な応答です。";
+
+"Web_Service_Error_Unsupported_Content_Title" = "未対応のコンテンツ";
+"Web_Service_Error_Unsupported_Content" = "ドキュメンの内にサポートしていないコンテンツが含まれています。";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "ドキュメントからサポートしていないコンテンツを削除してください。";
+
+"Web_Service_Error_Invalid_Request_Title" = "無効なリクエスト";
+"Web_Service_Error_Invalid_Request" = "対応していないリクエストです。";
+
+"Web_Service_Error_Unauthorized_Title" = "許可されていないリクエスト";
+"Web_Service_Error_Unauthorized" = "アクセストークンが取り消されているか間違っています。";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "アクセストークンが有効かつ正しいか確認してください。";
+
+"Web_Service_Error_Forbidden_Title" = "禁止されているリクエスト";
+"Web_Service_Error_Forbidden" = "権限がありません。";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "ポスト可能なアカウントか確認してください。";
+
+"Web_Service_Error_Other_Title" = "接続エラー";
+"Web_Service_Error_Other" = "エラーメッセージ： %@.";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "アクセス拒否";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "アカウントへのアクセスが拒否されました。";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "iA Writerからのアクセスを許可してください。";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "後でお試しください。";
+
+"Medium_Failure_Reason_Unsupported_Content" = "いくつかの要素が異なった表示になる恐れがあります： %@";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = "、";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "テーブル";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "脚注";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "ネストされたリスト";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "ネストされた番号リスト";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "タスクリスト";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "H5　見出し";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "H6　見出し";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "目次";
+
+"WordPress_No_Sites_Error" = "あなたの WordPress アカウントに関連付けされたサイトが見つかりません。";
+"WordPress_No_Sites_Error_Title" = "サイトがありません";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "正しいアカウントを許可しているかご確認ください、もしくは新しいサイトを追加してください。";
+"WordPress_Manage_Sites" = "サイト管理";
+
+"Web_Service_Image_Upload_Error" = "Failed to upload some images.";
+"Web_Service_Image_Upload_Error_Title" = "Image Upload Failed";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "テンプレートページ";
+"Template_Error_Missing_Page" = "テンプレートページを読み込めません。";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "Info.plistで “%@” の指定が正しいか確認してください。";
+
+"Template_Error_Undefined_Page_Title" = "定義されていないテンプレートページ";
+"Template_Error_Undefined_Page" = "テンプレートページの定義が見つかりません。";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "Info.plistで “%@” を指定してください。";
+
+"Template_Error_Duplicate_Bundle_Title" = "重複したテンプレート";
+"Template_Error_Duplicate_Bundle" = "テンプレートが既にインストールされています。";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "テンプレート “%@” を新しいバージョンにアップデートする場合は置換してください。両方インストールするにはテンプレートの識別子を変更してください。";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "置換";
+
+"Template_Error_Invalid_Bundle_Title" = "無効なテンプレート";
+"Template_Error_Invalid_Bundle" = "テンプレートを処理できません。";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "詳しい情報はドキュメンテーションを参照してください。";
+
+"Template_Error_Installed_Bundle_Title" = "インストール済みのテンプレート";
+"Template_Error_Installed_Bundle" = "テンプレートが既にインストールされています。";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "テンプレートがiA Writerで利用できない場合はドキュメンテーション参照してください。";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "不明";
+"Storage_Name_Local" = "ローカル";
+"Storage_Name_On_My_Device" = "On My %@";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "モノスペース";
+"Font_Name_Duospaced" = "デュオスペース";
+
+"Font_Script_Support_Monospaced" = "対応する文字: キリル文字, ギリシャ文字, ラテン文字。";
+"Font_Script_Support_Duospaced" = "対応する文字: ラテン文字。";
+"Font_Script_Support_Other" = "その他の文字にはシステムフォントが適用されます。";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Ubiquitous_Item" = "iCloud内のフォルダはライブラリとして追加できません。";
+"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "選択したフォルダはiCloud内にあります。";
+"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "iCloudにドキュメントを保存するためにはデフォルトのライブラリを使用してください。デフォルトのライブラリでiCloudが有効になっていない場合は、システム環境設定でiA WriterのiCloud設定が有効になっているか確認してください。";
+
+"Library_Location_Error_Existing_Item" = "指定したフォルダ、もしくはそのサブフォルダが別のライブラリとして登録されているため、追加できません。";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "指定したフォルダ、もしくはそのサブフォルダが別のライブラリとして登録されています。";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "選択したフォルダを追加するためには既存のライブラリを削除してください。";
+
+"Library_Location_Error_Not_Found" = "ライブラリが見つかりません。外部ボリューム上にあるか削除された可能性があります。";
+"Library_Location_Error_Not_Found_Failure_Reason" = "ライブラリが見つかりません。";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "ライブラリにアクセスするために、外部ボリュームを接続してください。";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Descrition" = "ドキュメント “%@” は外部から変更されてます";
+"External_Change_Error_Recovery_Suggestion" = "ファイルが iA Writer 以外から変更されています。復元を行った場合、iA Writer から最近行われた変更はすべて失われます。別名で保存を選択することで、変更を別のファイルに保存することができます。";
+"External_Change_Error_Keep_Action" = "iA Writer のバージョンを保持";
+"External_Change_Error_Revert_Action" = "復元";
+"External_Change_Error_Save_As_Action" = "別名で保存…";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_By_Name" = "名前";
+"Library_Sort_By_Extension" = "拡張子";
+"Library_Sort_By_Date_Modified" = "更新日時";
+"Library_Sort_By_Search_Rank" = "Search Rank";
+
+"Library_Sort_By_Name_Phrase" = "並べ替え名前";
+"Library_Sort_By_Extension_Phrase" = "並べ替え拡張子";
+"Library_Sort_By_Date_Modified_Phrase" = "並べ替え更新日時";
+"Library_Sort_By_Search_Rank_Phrase" = "並べ替えSearch Rank";
+
+"Library_Sort_By_Date_Ascending" = "古い順";
+"Library_Sort_By_Date_Descending" = "新しい順";
+
+"Library_Sort_By_Text_Ascending" = "A から Z";
+"Library_Sort_By_Text_Descending" = "Z から A";
+
+"Library_Sort_By_Search_Rank_Ascending" = "Least Relevant on Top";
+"Library_Sort_By_Search_Rank_Descending" = "Most Relevant on Top";
+
+"Library_Sort_By_Part_Joiner" = ", ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "文";
+"Focus_Scope_Paragraph" = "段落";
+"Focus_Scope_Text" = "タイプライター";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "アーカイブからのファイル復元に失敗しました。";
+"Zip_Operation_Error_Extraction_Failed_Title" = "復元失敗";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "ファイルの復元に失敗、もしくはアーカイブが空です。";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "“%@” が存在しません。";
+"Content_Block_Error_No_Such_File_Title" = "“%@” が存在しません";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "ファイル名が間違っている可能性があります。";
+
+"Content_Block_Error_Unable_To_Process" = "“%@” を処理できません。";
+"Content_Block_Error_Unable_To_Process_Title" = "“%@” を処理できません";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "ドキュメント形式が間違っている可能性があります。";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "CSVファイルからのテーブル生成には2行以上必要です。";
+
+"Content_Block_Error_Unknown_Extension" = "“%@” はサポートしていない拡張子です。";
+"Content_Block_Error_Unknown_Extension_Title" = "“%@” はサポートしていない拡張子です";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "コンテンツブロックはプレーンテキストファイル、もしくは画像ファイルの必要があります。";
+
+"Content_Block_Error_Recursive_Reference" = "“%@” は再帰的参照を行っています。";
+"Content_Block_Error_Recursive_Reference_Title" = "“%@” は再帰的参照を行っています";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "再帰的参照は無視されます。";
+
+"Content_Block_Error_Unsupported_Location" = "コンテンツブロックはライブラリ内のファイルのみ対応しています。";
+"Content_Block_Error_Unsupported_Location_Title" = "対応していないロケーション";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "コンテンツブロックを使うにはファイルをライブラリ内に移動、もしくはコピーしてください。設定から任意のフォルダをライブラリに追加することができます。";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "コンテンツブロックは端末内とiCloudライブラリ内のファイルのみ対応しています。";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "読了時間 %@";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "全てオン";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "前回使用をオン";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "全てオフ";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "全てオ";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "なし";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "名詞";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "動詞";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "形容詞";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "副詞";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "接続詞";

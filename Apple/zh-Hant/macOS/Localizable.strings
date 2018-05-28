@@ -1,0 +1,432 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable night mode. */
+"Menu_Enable_Night_Mode" = "夜間模式";
+
+/* Menu title to disable night mode and enable day mode. */
+"Menu_Disable_Night_Mode" = "日間模式";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "資料庫新文件";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "新";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "資料庫新標籤";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "新標籤";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "預設";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "僅限統計";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "複製格式化";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "複製 HTML";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "馬上購買";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "歡迎使用 iA Writer。\n這是試用版本，可免費享用所有功能。";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "試用已到期。我們希望您享受使用 iA Writer。";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "已安裝「%@」範本";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "您可以在預覽及查看＞範本內存取範本。您可以在偏好內解除安裝範本。";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writer 已更新至版本 %@";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "點擊以查看發行說明。";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "匯出";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "匯出";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "匯出為：";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "匯出至：";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "與 Microsoft Word 2007–2013 兼容。";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "通用 HTML。";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "更改 PDF 設計，選取檔案＞頁面設定。";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "與其他編編器兼容。";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "項目檔案";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "包含關聯的內容塊。";
+
+/* Checkmark title in print options. */
+"Print_Header" = "列印標題";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "列印頁腳";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "分享";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "您希望在哪裡創建草稿？";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "WordPress 帳戶存取至多於一個網站。";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "隱藏資料庫";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "隱藏預覽";
+
+/* Menu item to show library. */
+"Show_Library" = "顯示資料庫";
+
+/* Menu item to show preview. */
+"Show_Preview" = "顯示預覽";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "顯示管理栏";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "隱藏管理栏";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "顯示過濾欄";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "隱藏過濾欄";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "顯示分類欄";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "隱藏分類欄";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "匯出";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "半寬";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "全寬";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "沒有內容預覽";
+
+/*------
+ Library
+ ------*/
+
+/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
+"Library_Location_Description" = "資料庫位置適用於快速存取您在 iCloud 外大部分文件。它們已被編入索引以進行快速導航和全文搜索。過大的資料夾可能會影響整體表現。";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "返回";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "向前";
+
+/* Open indicator text in table view. */
+"Library_Open_Indicator_Text" = "已開啟";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "刪除";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "您是否確定要刪除「%@」？";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "此動作不能被撤銷。";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "刪除";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "空白文件";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "更新中⋯";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "新檔案";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "新文件夾";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "有選擇的新資料夾";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "在新視窗開啟";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "在新標籤開啟";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "以%@開啟";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "重新命名";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "取得資訊";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "排序方式";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "新增至最愛";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "從最愛移除";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "從位置移除";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "在 Finder 顯示";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "在資料庫中顯示";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "過濾";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "正在載入文檔…若資料庫內容較多，可能需時數分鐘。";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "移動";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "移動至「%@」";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "複製至「%@」";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "您正在編輯 iA Writer 資料庫外的文件。您可以繼續編輯，或您可以把它移至資料庫。";
+
+/* Search title. */
+"Library_Search_Title" = "搜尋結果";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "修改";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "已創建";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "名稱";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "擴展";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "大小";
+
+"Library_Root_Locations" = "位置";
+
+"Library_Root_Favorites" = "最愛";
+
+"Library_Root_Smart_Folders" = "智能資料夾";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "啟動對焦模式";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "停用對焦模式";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "啟用語法突出";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "停用語法突出";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "製作標題案例";
+
+/* List block element name. */
+"Block_Element_List" = "列表";
+
+/* Task list block element name. */
+"Block_Element_Task" = "任務";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "有序列表";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "有序任務";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "標題 1";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "標題 2";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "標題 3";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "標題 4";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "標題 5";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "標題 6";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "大段引用";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "主體";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "粗體";
+
+/* Italic inline element name. */
+"Inline_Element_Italic" = "斜體";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "底線";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "主體";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "註腳";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "連結";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "表格";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "調整表格大小。第一行將包含表格標題。";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "列";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "行";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "目錄";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "一般";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "檔案";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "資料庫";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "編輯器";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "範本";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "快速搜尋";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "無法處理一件些內容。";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "標題";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "列表";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "內聯元素";

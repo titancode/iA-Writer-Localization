@@ -1,0 +1,54 @@
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "2TI-Xg-Wpo"; */
+"2TI-Xg-Wpo.title" = "删除帐户";
+
+/* Class = "NSButtonCell"; title = "Night mode"; ObjectID = "4sT-yx-tZi"; */
+"4sT-yx-tZi.title" = "夜间模式";
+
+/* Class = "NSButtonCell"; title = "Show dark icon in the Dock when launched"; ObjectID = "6bs-8A-CNl"; */
+"6bs-8A-CNl.title" = "在Dock上显示暗色图标";
+
+/* Class = "NSButtonCell"; title = "Remove Account"; ObjectID = "7WB-bC-fey"; */
+"7WB-bC-fey.title" = "删除帐户";
+
+/* Class = "NSTextFieldCell"; title = "WordPress:"; ObjectID = "E5V-bl-YDo"; */
+"E5V-bl-YDo.title" = "WordPress：";
+
+/* Class = "NSTextFieldCell"; title = "Gestures:"; ObjectID = "EKU-lN-yAq"; */
+"EKU-lN-yAq.title" = "手势：";
+
+/* Class = "NSTextFieldCell"; title = "Medium:"; ObjectID = "GOB-Zh-pBT"; */
+"GOB-Zh-pBT.title" = "Medium：";
+
+/* Class = "NSTextFieldCell"; title = "Toolbar:"; ObjectID = "LlI-C5-bpg"; */
+"LlI-C5-bpg.title" = "工具栏：";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "Lup-ic-GtQ"; */
+"Lup-ic-GtQ.title" = "帐户名";
+
+/* Class = "NSTextFieldCell"; title = "Colors:"; ObjectID = "Rnn-Wj-4HI"; */
+"Rnn-Wj-4HI.title" = "颜色：";
+
+/* Class = "NSMenuItem"; title = "Fade In/Out"; ObjectID = "SWw-D8-EqL"; */
+"SWw-D8-EqL.title" = "淡入／淡出";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "W2O-dO-Pds"; */
+"W2O-dO-Pds.title" = "添加帐户";
+
+/* Class = "NSButtonCell"; title = "Add Account"; ObjectID = "ar9-tg-u1B"; */
+"ar9-tg-u1B.title" = "添加帐户";
+
+/* Class = "NSMenuItem"; title = "Hide"; ObjectID = "c8E-lj-f6I"; */
+"c8E-lj-f6I.title" = "隐藏​​";
+
+/* Class = "NSButtonCell"; title = "Scroll Preview in sync with Editor"; ObjectID = "ilj-nk-Mxd"; */
+"ilj-nk-Mxd.title" = "预览与编辑器同步滚动";
+
+/* Class = "NSMenuItem"; title = "Always Show"; ObjectID = "j0k-Io-Sa4"; */
+"j0k-Io-Sa4.title" = "总是显示";
+
+/* Class = "NSButtonCell"; title = "Swipe to show Library or Preview"; ObjectID = "pJV-vk-Inh"; */
+"pJV-vk-Inh.title" = "扫动显示资料库或预览";
+
+/* Class = "NSTextFieldCell"; title = "Account Name"; ObjectID = "sN4-AX-e4A"; */
+"sN4-AX-e4A.title" = "帐户名";

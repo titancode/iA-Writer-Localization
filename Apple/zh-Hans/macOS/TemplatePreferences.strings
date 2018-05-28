@@ -1,0 +1,54 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
+"561-vh-uzh.ibShadowedToolTip" = "在预览中反转夜间模式配色。自定义模板必须设置夜间模式以可反转配色。";
+
+/* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
+"GBp-vd-erZ.title" = "打开文档";
+
+/* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
+"ILS-Oy-k2r.title" = "默认模板：";
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
+"NWz-SI-k1m.title" = "预览：";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
+"NlF-W4-pAH.title" = "页眉";
+
+/* Class = "NSTextFieldCell"; title = "Print:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "打印：";
+
+/* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
+"aq5-yb-Aik.title" = "缩进段落";
+
+/* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
+"c4c-Wj-hKb.title" = "中央对齐标题";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
+"eLo-eM-g9t.title" = "页脚";
+
+/* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
+"eXK-ab-Lw9.title" = "安装模板…";
+
+/* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
+"f2Y-kh-hVX.title" = "反转配色";
+
+/* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
+"h5a-TI-YPT.title" = "卸载模板";
+
+/* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
+"nwP-qK-Y5q.title" = "获取更多模板";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
+"okQ-c2-ZeF.title" = "作者：";
+
+/* Class = "NSTextFieldCell"; title = "Custom templates:"; ObjectID = "qc2-ag-Mwe"; */
+"qc2-ag-Mwe.title" = "自定义模板：";
+
+/* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
+"tEq-K2-EVY.title" = "数字标题";
+
+/* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
+"wLN-Zi-CIU.title" = "标题页";
+
+/* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
+"y8E-dF-Bfw.title" = "安装模板";

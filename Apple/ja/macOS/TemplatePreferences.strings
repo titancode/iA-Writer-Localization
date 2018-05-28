@@ -1,0 +1,54 @@
+
+/* Class = "NSButton"; ibShadowedToolTip = "Invert night mode colors in Preview. Custom templates must implement night mode to able to invert colors."; ObjectID = "561-vh-uzh"; */
+"561-vh-uzh.ibShadowedToolTip" = "ナイトモード時にプレビューの色を反転します。カスタムテンプレートで色を反転させるためには、ナイトモードに対応している必要があります。";
+
+/* Class = "NSMenuItem"; title = "Open Documentation"; ObjectID = "GBp-vd-erZ"; */
+"GBp-vd-erZ.title" = "ドキュメンテーションを読む";
+
+/* Class = "NSTextFieldCell"; title = "Default templates:"; ObjectID = "ILS-Oy-k2r"; */
+"ILS-Oy-k2r.title" = "デフォルトテンプレート：";
+
+/* Class = "NSTextFieldCell"; title = "Preview:"; ObjectID = "NWz-SI-k1m"; */
+"NWz-SI-k1m.title" = "プレビュー：";
+
+/* Class = "NSButtonCell"; title = "Headers"; ObjectID = "NlF-W4-pAH"; */
+"NlF-W4-pAH.title" = "ヘッダー";
+
+/* Class = "NSTextFieldCell"; title = "Print:"; ObjectID = "P09-gF-Ui9"; */
+"P09-gF-Ui9.title" = "印刷：";
+
+/* Class = "NSButtonCell"; title = "Indent paragraphs"; ObjectID = "aq5-yb-Aik"; */
+"aq5-yb-Aik.title" = "段落をインデント";
+
+/* Class = "NSButtonCell"; title = "Center headings"; ObjectID = "c4c-Wj-hKb"; */
+"c4c-Wj-hKb.title" = "見出しを中央揃え";
+
+/* Class = "NSButtonCell"; title = "Footers"; ObjectID = "eLo-eM-g9t"; */
+"eLo-eM-g9t.title" = "フッター";
+
+/* Class = "NSMenuItem"; title = "Install Template…"; ObjectID = "eXK-ab-Lw9"; */
+"eXK-ab-Lw9.title" = "テンプレートをインストール…";
+
+/* Class = "NSButtonCell"; title = "Invert colors"; ObjectID = "f2Y-kh-hVX"; */
+"f2Y-kh-hVX.title" = "テーマを反転";
+
+/* Class = "NSButtonCell"; title = "Uninstall Template"; ObjectID = "h5a-TI-YPT"; */
+"h5a-TI-YPT.title" = "テンプレートをアンインストール";
+
+/* Class = "NSMenuItem"; title = "Get More Templates"; ObjectID = "nwP-qK-Y5q"; */
+"nwP-qK-Y5q.title" = "テンプレートをさらにダウンロードする";
+
+/* Class = "NSTextFieldCell"; title = "Author:"; ObjectID = "okQ-c2-ZeF"; */
+"okQ-c2-ZeF.title" = "作者：";
+
+/* Class = "NSTextFieldCell"; title = "Custom templates:"; ObjectID = "qc2-ag-Mwe"; */
+"qc2-ag-Mwe.title" = "カスタムテンプレート：";
+
+/* Class = "NSButtonCell"; title = "Number headings"; ObjectID = "tEq-K2-EVY"; */
+"tEq-K2-EVY.title" = "見出しに番号を振る";
+
+/* Class = "NSButtonCell"; title = "Title page"; ObjectID = "wLN-Zi-CIU"; */
+"wLN-Zi-CIU.title" = "タイトルページ";
+
+/* Class = "NSMenuItem"; title = "Install Template"; ObjectID = "y8E-dF-Bfw"; */
+"y8E-dF-Bfw.title" = "テンプレートをインストール";

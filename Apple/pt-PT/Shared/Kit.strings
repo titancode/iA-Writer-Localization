@@ -1,0 +1,267 @@
+
+"Button_OK" = "OK";
+"Button_Cancel" = "Cancelar";
+"Button_Try_Again" = "Tente novamente";
+"Button_Share" = "Partilhar";
+"Button_Close" = "Fechar";
+"Button_Continue" = "Continuar";
+
+"Unknown_Error_Title" = "Erro desconhecido";
+"Unknown_Error" = "Ocorreu um erro desconhecido.";
+"Unknown_Recovery_Suggestion" = "Por favor, tente novamente e contacte o suporte.";
+
+"Default_Document_Name" = "Sem título";
+"Default_Folder_Name" = "Pasta sem título";
+"Default_Image_Name" = "Sem título";
+"Default_Smart_Folder_Name" = "Sem título";
+"Default_Smart_Folder_Recently_Modified_Name" = "Modificado recentemente";
+
+"Paper_Size_A4" = "Papel A4";
+"Paper_Size_US_Letter" = "Papel US Letter";
+
+/*----
+ Dates
+ ----*/
+
+"Relative_Date_Yesterday" = "Ontem";
+
+/*-----------
+ Web Services
+ -----------*/
+
+"Web_Service_Publish_Status_Draft" = "Rascunho";
+"Web_Service_Publish_Status_Unlisted" = "Não mencionado";
+"Web_Service_Publish_Status_Public" = "Público";
+
+"Web_Service_Error_Missing_Response_Data_Title" = "Sem resposta";
+"Web_Service_Error_Missing_Response_Data" = "Não foi recebida qualquer resposta.";
+
+"Web_Service_Error_Invalid_Response_Data_Title" = "Resposta inválida";
+"Web_Service_Error_Invalid_Response_Data" = "Não é possível processar uma resposta";
+
+"Web_Service_Error_Invalid_Response_Data_Parameter_Title" = "Parâmetro de Resposta Inválido";
+"Web_Service_Error_Invalid_Response_Data_Parameter" = "Resposta incompleta recebida.";
+
+"Web_Service_Error_Unsupported_Content_Title" = "Conteúdo não suportado";
+"Web_Service_Error_Unsupported_Content" = "Existem conteúdos neste documento que não são suportados.";
+"Web_Service_Error_Unsupported_Content_Recovery_Suggestion" = "Remover do documento os conteúdos não suportados.";
+
+"Web_Service_Error_Invalid_Request_Title" = "Pedido Inválido";
+"Web_Service_Error_Invalid_Request" = "Pedido inválido.";
+
+"Web_Service_Error_Unauthorized_Title" = "Pedido não autorizado";
+"Web_Service_Error_Unauthorized" = "O código de acesso foi revogado ou não está correto.";
+"Web_Service_Error_Unauthorized_Recovery_Suggestion" = "Assegure-se de que o código de acesso está ativo e é o correto.";
+
+"Web_Service_Error_Forbidden_Title" = "Pedido proibido";
+"Web_Service_Error_Forbidden" = "Sem permissão para efetuar o pedido.";
+"Web_Service_Error_Forbidden_Recovery_Suggestion" = "Assegure-se de que a sua conta tem permissão para publicar.";
+
+"Web_Service_Error_Other_Title" = "Erro de ligação";
+"Web_Service_Error_Other" = "Recebemos um erro durante a ligação ao serviço.";
+
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion_Title" = "Acesso Negado";
+"Web_Service_Error_Auth_Denied_Recovery_Suggestion" = "O acesso à conta foi recusado.";
+"Web_Service_Recovery_Suggestion_Auth_Denied" = "Tem de aprovar o acesso à sua conta para poder utilizá-la no iA Writer.";
+
+"Web_Service_Recovery_Suggestion_Try_Later" = "Por favor, tente novamente mais tarde.";
+
+"Medium_Failure_Reason_Unsupported_Content" = "Determinados elementos podem ter um aspeto diferente: %@.";
+"Medium_Failure_Reason_Unsupported_Content_Separator" = ", ";
+"Medium_Failure_Reason_Unsupported_Content_Tables" = "tabelas";
+"Medium_Failure_Reason_Unsupported_Content_Footnotes" = "notas de rodapé";
+"Medium_Failure_Reason_Unsupported_Content_Nested_List_Items" = "itens de lista agrupados";
+"Medium_Failure_Reason_Unsupported_Content_Nested_Ordered_List_Items" = "itens de lista agrupados e ordenados";
+"Medium_Failure_Reason_Unsupported_Content_Task_List_Items" = "itens de lista de tarefas";
+"Medium_Failure_Reason_Unsupported_Content_H5" = "cabeçalho 5";
+"Medium_Failure_Reason_Unsupported_Content_H6" = "cabeçalho 6";
+"Medium_Failure_Reason_Unsupported_Content_TOC" = "Índice";
+
+"WordPress_No_Sites_Error" = "Não foi possível encontrar sites associados à sua conta WordPress.";
+"WordPress_No_Sites_Error_Title" = "Não foram encontrados sites";
+"WordPress_No_Sites_Error_Recovery_Suggestion" = "Assegure-se de que autorizou a conta correta, ou adicione um novo site à sua conta WordPress.";
+"WordPress_Manage_Sites" = "Gerir Sites";
+
+"Web_Service_Image_Upload_Error" = "Não foi possível carregar algumas imagens.";
+"Web_Service_Image_Upload_Error_Title" = "Não foi possível carregar a imagem";
+/* Alert message component for failed image upload. If multiple image uploads failed, template will be used to make several lines. 1: Image name. 2: Error description. */
+"Web_Service_Image_Upload_Error_Recovery_Suggestion_Template" = "%1$@: %2$@";
+
+/*--------
+ Templates
+ --------*/
+
+"Template_Error_Missing_Page_Title" = "Página do Modelo em Falta";
+"Template_Error_Missing_Page" = "Não é possível ler uma das páginas no modelo.";
+"Template_Error_Missing_Page_Recovery_Suggestion" = "Verifique se especificou corretamente “%@” em Info.plist.";
+
+"Template_Error_Undefined_Page_Title" = "Página de modelo não definida";
+"Template_Error_Undefined_Page" = "Não foi possível encontrar a definição da página do modelo.";
+"Template_Error_Undefined_Page_Recovery_Suggestion" = "Por favor, especifique “%@” em Info.plist.";
+
+"Template_Error_Duplicate_Bundle_Title" = "Duplicar Modelo";
+"Template_Error_Duplicate_Bundle" = "O Modelo já se encontra instalado.";
+"Template_Error_Duplicate_Bundle_Recovery_Suggestion" = "Substitua o modelo se estiver a atualizar “%@” com uma versão mais recente. Altere o identificador do modelo para instalar ambos.";
+"Template_Error_Duplicate_Bundle_Recovery_Option" = "Substituir";
+
+"Template_Error_Invalid_Bundle_Title" = "Modelo Inválido";
+"Template_Error_Invalid_Bundle" = "Não é possível processar o modelo.";
+"Template_Error_Invalid_Bundle_Recovery_Suggestion" = "Consulte a documentação para mais informações.";
+
+"Template_Error_Installed_Bundle_Title" = "O modelo foi instalado";
+"Template_Error_Installed_Bundle" = "O modelo já foi instalado.";
+"Template_Error_Installed_Bundle_Recovery_Suggestion" = "Consulte a documentação se o modelo não estiver disponível no iA Writer.";
+
+/*-------
+ Storages
+ -------*/
+
+"Storage_Name_Cloud" = "iCloud";
+"Storage_Name_Unknown" = "Desconhecido";
+"Storage_Name_Local" = "Local";
+"Storage_Name_On_My_Device" = "No Meu %@";
+
+/*----
+ Fonts
+ ----*/
+
+"Font_Name_Monospaced" = "Não proporcional";
+"Font_Name_Duospaced" = "Proporcional";
+
+"Font_Script_Support_Monospaced" = "Scripts suportados: Cirílico, Grego, Latino.";
+"Font_Script_Support_Duospaced" = "Scripts suportados: Latino.";
+"Font_Script_Support_Other" = "Serão usados tipos de letra de sistema para outros scripts.";
+
+/*----------------
+ Library Locations
+ ----------------*/
+
+"Library_Location_Error_Ubiquitous_Item" = "Não é possível adicionar uma Localização de Biblioteca para uma pasta na iCloud.";
+"Library_Location_Error_Ubiquitous_Item_Failure_Reason" = "A pasta selecionada está na iCloud.";
+"Library_Location_Error_Ubiquitous_Item_Recovery_Suggestion" = "Por favor, use a Localização de Biblioteca predefinida para armazenar documentos na iCloud. Verifique se a iCloud foi ativada para o iA Writer nas Preferências de Sistema, caso a localização predefinida não esteja a usar a iCloud.";
+
+"Library_Location_Error_Existing_Item" = "Não é possível acrescentar uma Localização de Biblioteca, porque a pasta ou a sua subpasta fazem parte de uma Localização de Biblioteca diferente.";
+"Library_Location_Error_Existing_Item_Failure_Reason" = "A pasta selecionada ou a sua subpasta fazem parte de uma outra Localização de Biblioteca.";
+"Library_Location_Error_Existing_Item_Recovery_Suggestion" = "Remover a Localização da Biblioteca existente antes de acrescentar a pasta selecionada.";
+
+"Library_Location_Error_Not_Found" = "Não é possível encontrar a Localização da Biblioteca. Poderá ter sido removida, ou localizar-se numa unidade ejetável.";
+"Library_Location_Error_Not_Found_Failure_Reason" = "Não foi possível encontrar a Localização de Biblioteca.";
+"Library_Location_Error_Not_Found_Recovery_Suggestion" = "Ligue a unidade ejetável para aceder à Localização de Biblioteca";
+
+/*--------
+ Documents
+ --------*/
+
+"External_Change_Error_Localized_Descrition" = "O ficheiro “%@” foi alterado externamente.";
+"External_Change_Error_Recovery_Suggestion" = "O ficheiro foi modificado fora do iA Writer. Se reverter para a versão do ficheiro em disco, todas as alterações recentes feitas no iA Writer podem ser perdidas. Poderá também clicar em Guardar Como para guardar as suas alterações num ficheiro diferente.";
+"External_Change_Error_Keep_Action" = "Manter a versão do iA Writer";
+"External_Change_Error_Revert_Action" = "Reverter";
+"External_Change_Error_Save_As_Action" = "Guardar Como...";
+
+/*-----------
+ Sort Options
+ -----------*/
+
+"Library_Sort_By_Name" = "Nome";
+"Library_Sort_By_Extension" = "Extensão";
+"Library_Sort_By_Date_Modified" = "Data de modificação";
+"Library_Sort_By_Search_Rank" = "Procurar escalão";
+
+"Library_Sort_By_Name_Phrase" = "Ordenar por nome";
+"Library_Sort_By_Extension_Phrase" = "Ordenar por extensão";
+"Library_Sort_By_Date_Modified_Phrase" = "Ordenar por data de modificação";
+"Library_Sort_By_Search_Rank_Phrase" = "Ordenar por procurar escalão";
+
+"Library_Sort_By_Date_Ascending" = "Os mais antigos em cima";
+"Library_Sort_By_Date_Descending" = "Os mais recentes em cima";
+
+"Library_Sort_By_Text_Ascending" = "A a Z";
+"Library_Sort_By_Text_Descending" = "Z a A";
+
+"Library_Sort_By_Search_Rank_Ascending" = "Os menos relevantes em cima";
+"Library_Sort_By_Search_Rank_Descending" = "Os mais relevantes em cima";
+
+"Library_Sort_By_Part_Joiner" = ", ";
+
+/*----------
+ Focus Scope
+ ----------*/
+
+"Focus_Scope_Sentence" = "Frase";
+"Focus_Scope_Paragraph" = "Parágrafo";
+"Focus_Scope_Text" = "Máquina de escrever";
+
+/*-----------
+ Zip Archives
+ -----------*/
+
+"Zip_Operation_Error_Extraction_Failed" = "Não foi possível extrair ficheiros do arquivo.";
+"Zip_Operation_Error_Extraction_Failed_Title" = "A extração falhou.";
+"Zip_Operation_Error_Extraction_Failed_Recovery_Suggestion" = "Não foi possível extrair ficheiros, ou o arquivo está vazio.";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+"Content_Block_Error_No_Such_File" = "“%@” não existe.";
+"Content_Block_Error_No_Such_File_Title" = "“%@” Não Existe";
+"Content_Block_Error_No_Such_File_Recovery_Suggestion" = "O nome do ficheiro pode estar errado.";
+
+"Content_Block_Error_Unable_To_Process" = "Não foi possível processar “%@”.";
+"Content_Block_Error_Unable_To_Process_Title" = "Não foi possível processar “%@”";
+"Content_Block_Error_Unable_To_Process_Recovery_Suggestion" = "O documento pode ter uma formatação incorreta.";
+"Content_Block_Error_Unable_To_Process_CSV_With_Less_Than_Two_Rows" = "Os ficheiros CSV devem conter pelo menos duas linhas para poderem gerar uma tabela.";
+
+"Content_Block_Error_Unknown_Extension" = "“%@” tem uma extensão não suportada.";
+"Content_Block_Error_Unknown_Extension_Title" = "“%@” tem uma extensão não suportada";
+"Content_Block_Error_Unknown_Extension_Recovery_Suggestion" = "Os blocos de conteúdo devem conter ficheiros de texto simples ou imagens.";
+
+"Content_Block_Error_Recursive_Reference" = "“%@” contém uma referência recursiva.";
+"Content_Block_Error_Recursive_Reference_Title" = "“%@” contém uma referência recursiva";
+"Content_Block_Error_Recursive_Reference_Recovery_Suggestion" = "As referências recursivas são ignoradas.";
+
+"Content_Block_Error_Unsupported_Location" = "Os blocos de conteúdos são suportados apenas por ficheiros contidos na Biblioteca.";
+"Content_Block_Error_Unsupported_Location_Title" = "Localização não suportada";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_macOS" = "Mova ou copie o ficheiro para a Biblioteca para usar os blocos de conteúdo. Pode adicionar pastas à Biblioteca nas Preferências.";
+"Content_Block_Error_Unsupported_Location_Recovery_Suggestion_iOS" = "Os blocos de conteúdos são suportados apenas por ficheiros contidos na Biblioteca %@.";
+
+/*---------
+ Text Stats
+ ---------*/
+
+/* Reading time label in text editor toolbar. */
+"Stats_Reading_Time" = "%@ Tempo de Leitura";
+
+/*-------------
+ Syntax Control
+ -------------*/
+
+/* Syntax control menu title to enable all targets. */
+"Syntax_Control_Enable_All" = "Ativar Todos";
+
+/* Syntax control menu title to enable last used targets. */
+"Syntax_Control_Enable_Last_Used" = "Ativar a última utilização";
+
+/* Syntax control menu title to disable all targets. */
+"Syntax_Control_Disable_All" = "Desativar Todos";
+
+/* All syntax control targets chosen. */
+"Syntax_Control_Target_All" = "Todos";
+
+/* No syntax control target chosen. */
+"Syntax_Control_Target_None" = "Nenhum";
+
+/* Nouns syntax control target. */
+"Syntax_Control_Target_Nouns" = "Substantivos";
+
+/* Verbs syntax control target. */
+"Syntax_Control_Target_Verbs" = "Verbos";
+
+/* Adjectives syntax control target. */
+"Syntax_Control_Target_Adjectives" = "Adjetivos";
+
+/* Adverbs syntax control target. */
+"Syntax_Control_Target_Adverbs" = "Advérbios";
+
+/* Conjunctions syntax control target. */
+"Syntax_Control_Target_Conjunctions" = "Conjunções";
