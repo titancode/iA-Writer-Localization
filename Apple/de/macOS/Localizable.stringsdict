@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Library_Delete_Confrimation_Message_Multiple</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@items@</string>
+		<key>items</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Sind Sie sicher, dass Sie das ausgewählte Objekt löschen möchten?</string>
+			<key>other</key>
+			<string>Sind Sie sicher, dass Sie die ausgewählten %tu Objekte löschen möchten?</string>
+		</dict>
+	</dict>
+	<key>Trial_Expiration_Days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Testversion (%tu Tag kostenlos)</string>
+			<key>other</key>
+			<string>Testversion (%tu Tage kostenlos)</string>
+			<key>zero</key>
+			<string>Buy Now</string>
+		</dict>
+	</dict>
+	<key>Trial_Expiration_Hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours@</string>
+		<key>hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Testversion (%tu Stunde kostenlos)</string>
+			<key>other</key>
+			<string>Testversion (%tu Stunden kostenlos)</string>
+			<key>zero</key>
+			<string>Buy Now</string>
+		</dict>
+	</dict>
+	<key>Trial_Extension_Days</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@days@</string>
+		<key>days</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Noch %tu Tag testen</string>
+			<key>other</key>
+			<string>Noch %tu Tage testen</string>
+		</dict>
+	</dict>
+	<key>Trial_Extension_Hours</key>
+	<dict>
+		<key>NSStringLocalizedFormatKey</key>
+		<string>%#@hours@</string>
+		<key>hours</key>
+		<dict>
+			<key>NSStringFormatSpecTypeKey</key>
+			<string>NSStringPluralRuleType</string>
+			<key>NSStringFormatValueTypeKey</key>
+			<string>tu</string>
+			<key>one</key>
+			<string>Noch %tu Stunde testen</string>
+			<key>other</key>
+			<string>Noch %tu Stunden testen</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

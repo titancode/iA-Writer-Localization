@@ -1,0 +1,432 @@
+
+/*----
+ Menus
+ -----*/
+
+/* Menu title to enable night mode. */
+"Menu_Enable_Night_Mode" = "ナイトモード";
+
+/* Menu title to disable night mode and enable day mode. */
+"Menu_Disable_Night_Mode" = "デイモード";
+
+/* New in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Library_Menu" = "ライブラリー内に新規ファイル";
+
+/* New. Menu item title for creating new documents. */
+"New_Document_Menu" = "新規";
+
+/* New Tab in Library. Menu item title for creating new documents in Library. */
+"New_Document_In_Tab_In_Library_Menu" = "ライブラリに新規タブ";
+
+/* New Tab. Menu item title for creating new documents. */
+"New_Document_In_Tab_Menu" = "新規タブ";
+
+/* Default editor toolbar title. */
+"Editor_Toolbar_Default_Menu" = "デフォルト";
+
+/* Stats editor toolbar title. */
+"Editor_Toolbar_Stats_Menu" = "統計情報";
+
+/* Contextual menu to copy formatted text. */
+"Editor_Copy_Formatted_Menu" = "フォーマット済テキストをコピー";
+
+/* Contextual menu to copy HTML. */
+"Editor_Copy_HTML_Menu" = "HTMLをコピー";
+
+/*----
+ Trial
+ ----*/
+
+/* Buy now demo button title. */
+"Trial_Buy_Now" = "購入";
+
+/* Demo wecolme notice. */
+"Trial_Welcome" = "新しいiA Writerへようこそ。\nこのお試し版では、さらに自由な使い心地を楽しんでいただけます。";
+
+/* Demo expiration notice. */
+"Trial_Expiration_Notice" = "ご利用いただきありがとうございます。無料トライアル期間が終了しました。";
+
+/*--------
+ Templates
+ --------*/
+
+/* Notification title after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Title" = "テンプレート “%@” をインストールしました";
+
+/* Notification info text after a template is successfully installed via Finder or Dock icon. */
+"Template_Installed_Description" = "テンプレートにはプレビューからアクセスしてください。 テンプレートは設定からアンインストールが可能です。";
+
+/*------------
+ Release Notes
+ ------------*/
+
+/* Notification title, shown on first launch of a new version. */
+"Updated_Notification_Title" = "iA Writerがバージョン %@ にアップデートされました";
+
+/* Notification info text, shown on first launch of a new version. */
+"Updated_Notification_Message" = "リリースノートを見る";
+
+/*-----
+ Export
+ -----*/
+
+/* Export panel title. */
+"Export_Panel_Title" = "書き出し";
+
+/* Export panel prompt. */
+"Export_Panel_Prompt" = "書き出し";
+
+/* Export panel name field label. */
+"Export_Panel_Name_Field_Label" = "名前：";
+
+/* Export panel format picker label. */
+"Export_Panel_Export_To_Label" = "書き出す：";
+
+/* Microsoft Word export format. */
+"Export_Format_Word_Name" = "Microsoft Word";
+
+/* Microsoft Word export format description. */
+"Export_Format_Word_Description" = "Microsoft Word 2007–2013互換ファイル";
+
+/* HTML export format. */
+"Export_Format_HTML_Name" = "HTML";
+
+/* HTML export format description. */
+"Export_Format_HTML_Description" = "基本的なHTML";
+
+/* PDF export format. */
+"Export_Format_PDF_Name" = "PDF";
+
+/* PDF export format description. */
+"Export_Format_PDF_Description" = "レイアウト変更は ファイル > ページ設定 を選択";
+
+/* Plain text export format. */
+"Export_Format_Markdown_Name" = "Markdown";
+
+/* Plain text export format description. */
+"Export_Format_Markdown_Description" = "多くのテキストエディタと高い互換性";
+
+/* Project archive text export format. */
+"Export_Format_Project_Archive_Name" = "プロジェクトアーカイブ";
+
+/* Plain text export format description. */
+"Export_Format_Project_Archive_Description" = "埋め込まれたコンテンツブロックも含まれます";
+
+/* Checkmark title in print options. */
+"Print_Header" = "ヘッダをプリント";
+
+/* Checkmark title in print options. */
+"Print_Footer" = "フッタをプリント";
+
+/*-----
+ Sharing
+ -----*/
+
+/* Button to continue sharing after being warning about unsupported content on Medium, or after picking a site on WordPress. */
+"Button_Share" = "共有";
+
+/* WordPress site picker alert title. */
+"WordPress_Picker_Message" = "ドラフトの保存先を選んでください";
+
+/* WordPress site picker alert description. */
+"WordPress_Picker_Informative_Text" = "ご使用のWordPressアカウントは複数サイトへのアクセスが可能です。";
+
+/*-----
+ Window
+ -----*/
+
+/* Menu item to hide library. */
+"Hide_Library" = "ライブラリを非表示化";
+
+/* Menu item to hide preview. */
+"Hide_Preview" = "プレビューを非表示化";
+
+/* Menu item to show library. */
+"Show_Library" = "ライブラリを表示";
+
+/* Menu item to show preview. */
+"Show_Preview" = "プレビューを表示";
+
+/* Menu item to show preview. */
+"Show_Source_List" = "オーガナイザを表示";
+
+/* Menu item to show preview. */
+"Hide_Source_List" = "オーガナイザを非表示";
+
+/* Menu item to show filter bar. */
+"Show_Search_Bar" = "フィルターバーを表示";
+
+/* Menu item to hide filter bar. */
+"Hide_Search_Bar" = "フィルターバーを非表示";
+
+/* Menu item to show sort bar. */
+"Show_Sort_Bar" = "並べ替えバーを表示";
+
+/* Menu item to hide sort bar. */
+"Hide_Sort_Bar" = "並べ替えバーを非表示";
+
+/* Export button in preview toolbar. */
+"Preview_Toolbar_Export" = "書き出し";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Half_Width" = "半分";
+
+/* Preview sizes in preview toolbar. */
+"Preview_Toolbar_Full_Width" = "全幅";
+
+/* Message shown over empty preview. */
+"Preview_Content_Placeholder" = "プレビューできるコンテンツがありません";
+
+/*------
+ Library
+ ------*/
+
+/* Shown when adding library locations using an open panel in preferences. Line breaks between sentences are important. */
+"Library_Location_Description" = "Dropboxは現在の同期方法の終了を予定しています。\n素早いナビゲーションと全文検索に対応しています。\n過度に大きなフォルダはパフォーマンスに影響を与える恐れがあります。";
+
+/* Go menu item title to go back. */
+"Library_Go_Back" = "戻る";
+
+/* Go menu item title to go forward. */
+"Library_Go_Forward" = "進む";
+
+/* Open indicator text in table view. */
+"Library_Open_Indicator_Text" = "オープン";
+
+/* Menu to move to delete a folder when right-clicking in document library.
+   Title for action when swiping table view. */
+"Library_Delete_Action_Title" = "削除";
+
+/* Deletion confirmation sheet message. */
+"Library_Delete_Confrimation_Message" = "“%@”を削除しますか？";
+
+/* Deletion confrimation infromative text for a local item. */
+"Library_Delete_Confrimation_Informative_Text" = "このアクションはやり直しできません。";
+
+/* No comment provided by engineer. */
+"Library_Delete_Confrimation_Button" = "削除";
+
+/* Snippet for empty documents. */
+"Library_Snippet_Empty" = "コンテンツなし";
+
+/* Snippet for documents which weren’t downloaded yet. */
+"Library_Snippet_Updating" = "同期中…";
+
+/* Menu to create a new file when right-clicking empty space in document library. */
+"Library_Action_New_File" = "新規ファイル";
+
+/* Menu to create a new folder when right-clicking empty space in document library.
+   Name for new folders. */
+"Library_Action_New_Folder" = "新規フォルダ";
+
+/* Menu to create a new folder when right-clicking a document in document library. */
+"Library_Action_New_Folder_Selection" = "選択中ファイルを新規フォルダへ移動";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_In_New_Window" = "新しいウインドウで開く";
+
+/* Menu item to open in a new tab. */
+"Library_Action_Open_In_New_Tab" = "新しいタブで開く";
+
+/* Menu item to open in separate window. */
+"Library_Action_Open_With" = "%@ で開く";
+
+/* Menu to rename a folder in Library. */
+"Library_Action_Rename" = "名前変更";
+
+/* Menu get info about an item in Library. */
+"Library_Action_Get_Info" = "Get Info";
+
+/* Menu to change sorting in Library. */
+"Library_Action_Sort_By" = "並べ替え";
+
+/* Menu to add to favorites. */
+"Library_Action_Add_Favorite" = "お気に入りに追加";
+
+/* Menu to remove items from favorites. */
+"Library_Action_Remove_Favorite" = "お気に入りから削除";
+
+/* Menu to remove items from locations. */
+"Library_Action_Remove_Location" = "ロケーションから取り除く";
+
+/* Menu to show currently selected document in Finder. */
+"Show_In_Finder" = "Finderに表示";
+
+/* Search menu item to show currently selected document in Library. */
+"Show_In_Library" = "ライブラリ内に表示";
+
+/* Search field placeholder. */
+"Library_Search_Field_Placeholder" = "フィルター";
+
+/* Loading content message for document library. */
+"Library_Loading_Message" = "ドキュメントを同期しています。ライブラリの大きさによっては数分かかる場合があります。";
+
+/* Button to move document to library. */
+"Library_Import_Prompt_Button_Move" = "移動";
+
+/* Move button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Move_To" = "“%@”へ移動";
+
+/* Copy button title for import prompt in Library. */
+"Library_Import_Prompt_Button_Copy_To" = "“%@”にコピー";
+
+/* Message label for documents edited outside the Library. */
+"Library_Import_Prompt_Message" = "iA Writerライブラリの外で編集中です。このまま作業を続けるか、またはライブラリへと移動できます。";
+
+/* Search title. */
+"Library_Search_Title" = "検索結果";
+
+/* Library info popover label for date modified. */
+"Library_Info_Date_Modified" = "変更日";
+
+/* Library info popover label for date created. */
+"Library_Info_Date_Created" = "作成日";
+
+/* Library info popover label for extension. */
+"Library_Info_Name" = "名前";
+
+/* Library info popover label for extension. */
+"Library_Info_Extension" = "拡張子";
+
+/* Library info popover label for file size. */
+"Library_Info_Size" = "サイズ";
+
+"Library_Root_Locations" = "ロケーション";
+
+"Library_Root_Favorites" = "お気に入り";
+
+"Library_Root_Smart_Folders" = "スマートフォルダ";
+
+/*-----
+ Editor
+ -----*/
+
+/* Menu title to enable focus mode. */
+"Menu_Enable_Focus_Mode" = "フォーカスモードを有効化";
+
+/* Menu title to disable focus mode. */
+"Menu_Disable_Focus_Mode" = "フォーカスモードを無効化";
+
+/* Menu title to enable syntax highlight. */
+"Menu_Enable_Syntax_Higlight" = "シンタックスハイライトを有効化";
+
+/* Menu title to disable syntax highlight. */
+"Menu_Disable_Syntax_Higlight" = "シンタックスハイライトを無効化";
+
+/* Apply English title capitalization to selected text. */
+"Make_Title_Case" = "語頭を大文字にする（ヘッドラインスタイル）";
+
+/* List block element name. */
+"Block_Element_List" = "リスト";
+
+/* Task list block element name. */
+"Block_Element_Task" = "タスク";
+
+/* Ordered list block element name. */
+"Block_Element_Ordered_List" = "番号付きリスト";
+
+/* Ordered task list block element name. */
+"Block_Element_Ordered_Task" = "番号付きタスクリスト";
+
+/* Heading 1 block element name. */
+"Block_Element_Heading_1" = "H1 見出し";
+
+/* Heading 2 block element name. */
+"Block_Element_Heading_2" = "H2 見出し";
+
+/* Heading 3 block element name. */
+"Block_Element_Heading_3" = "H3 見出し";
+
+/* Heading 4 block element name. */
+"Block_Element_Heading_4" = "H4 見出し";
+
+/* Heading 5 block element name. */
+"Block_Element_Heading_5" = "H5 見出し";
+
+/* Heading 6 block element name. */
+"Block_Element_Heading_6" = "H6 見出し";
+
+/* Body text block element name. */
+"Block_Element_Blockquote" = "ブロック引用";
+
+/* Body text block element name. */
+"Block_Element_Body_Text" = "本文";
+
+/* Bold inline element name. */
+"Inline_Element_Bold" = "太字";
+
+/* Italic inline element name. */
+"Inline_Element_Italic" = "イタリック";
+
+/* Strikethrough inline element name. */
+"Inline_Element_Strikethrough" = "取消線";
+
+/* Body text inline element name. */
+"Inline_Element_Body_Text" = "本文";
+
+/* Footnote button in text edit toolbar. */
+"Text_Editor_Toolbar_Action_Footnote" = "脚注";
+
+/* Link button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Link" = "リンク";
+
+/* Table button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table" = "テーブル";
+
+/* Table size picker alert title. The alert is shown after selecting action to add table. */
+"Text_Editor_Table_Alert_Message" = "テーブルの大きさを指定してください。一行目はテーブルヘッダになります。";
+
+/* Table size picker alert label that follows text field with number of columns. For example: “[5] columns”. */
+"Text_Editor_Table_Alert_Columns_Label" = "列";
+
+/* Table size picker alert label that follows text field with number of rows. For example: “[5] rows”. */
+"Text_Editor_Table_Alert_Rows_Label" = "行";
+
+/* Table of contents button in text editor toolbar. */
+"Text_Editor_Toolbar_Action_Table_Of_Contents" = "目次";
+
+/*----------
+ Preferences
+ ----------*/
+
+/* General preferences pane title. */
+"Preferences_Pane_Title_General" = "一般";
+
+/* Files preferences pane title. */
+"Preferences_Pane_Title_Files" = "ファイル";
+
+/* Library preferences pane title. */
+"Preferences_Pane_Title_Library" = "ライブラリ";
+
+/* Editor preferences pane title. */
+"Preferences_Pane_Title_Editor" = "エディタ";
+
+/* Templates preferences pane title. */
+"Preferences_Pane_Title_Templates" = "テンプレート";
+
+/*-----------
+ Quick Search
+ -----------*/
+
+/* Placeholder string for window activated from Window > Quick Search */
+"Quick_Search_Placeholder" = "クイック検索";
+
+/*-------------
+ Content Blocks
+ -------------*/
+
+/* Content blocks warnings alert title. Shown before Export, Sharing, or Printing. */
+"Content_Block_Processing_Alert_Message" = "いくつかのコンテンツを処理できませんでした。";
+
+/*--------
+ Touch Bar
+ --------*/
+
+/* Touch bar item title and customization label for popover with all headings. */
+"Touch_Bar_Item_Headings" = "見出し";
+
+/* Touch bar item title and customization label for popover with all list item types. */
+"Touch_Bar_Item_Lists" = "リスト";
+
+/* Touch bar customization label for button with inline elements. */
+"Touch_Bar_Item_Inline_Elements" = "Inline Elements";

@@ -1,0 +1,87 @@
+
+/* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "51F-7r-uRC"; */
+"51F-7r-uRC.title" = "Tabulator";
+
+/* Class = "NSTextFieldCell"; title = "Supported scripts: Cyrillic, Greek, Latin. \nSystem fonts will be used for other scripts."; ObjectID = "6FK-0a-8ew"; */
+"6FK-0a-8ew.title" = "Unterstützte Sprachen: Kyrillisch, Griechisch, Lateinisch. \nFür alle andere Sprachen werden Systemschriften verwendet.";
+
+/* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
+"6L5-CK-rbm.title" = "Rechtschreibung und Grammatik:";
+
+/* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
+"7iw-vf-YLb.title" = "Textgröße:";
+
+/* Class = "NSMenuItem"; title = "Medium"; ObjectID = "7km-23-5ry"; */
+"7km-23-5ry.title" = "Medium";
+
+/* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
+"JpA-gV-jQe.title" = "Textersetzung";
+
+/* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
+"KWp-yU-5hs.title" = "Automatische Korrektur";
+
+/* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
+"Muo-8w-HeG.title" = "Fokus:";
+
+/* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
+"ODb-aW-xzV.title" = "72";
+
+/* Class = "NSMenuItem"; title = "64"; ObjectID = "S60-FG-qNb"; */
+"S60-FG-qNb.title" = "64";
+
+/* Class = "NSMenuItem"; title = "Small"; ObjectID = "U0l-bI-YCF"; */
+"U0l-bI-YCF.title" = "Klein";
+
+/* Class = "NSMenuItem"; title = "Large"; ObjectID = "UY2-vP-tfQ"; */
+"UY2-vP-tfQ.title" = "Groß";
+
+/* Class = "NSTextFieldCell"; title = "Font:"; ObjectID = "VDN-F7-hK9"; */
+"VDN-F7-hK9.title" = "Schrift:";
+
+/* Class = "NSMenuItem"; title = "Typewriter"; ObjectID = "Wed-ZH-mmU"; Note = "SKIP LOCALIZATION"; */
+"Wed-ZH-mmU.title" = "Volltext";
+
+/* Class = "NSMenuItem"; title = "Duospaced"; ObjectID = "Zfe-pD-b7Z"; */
+"Zfe-pD-b7Z.title" = "Duospace";
+
+/* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "bUN-vs-toB"; */
+"bUN-vs-toB.title" = "Leerzeichen";
+
+/* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "dkb-Rh-mQj"; */
+"dkb-Rh-mQj.title" = "Texteinrückung mit:";
+
+/* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
+"dqc-LX-3Cd.title" = "Intelligente Ersetzungen:";
+
+/* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
+"eVp-ub-H3k.title" = "Satz";
+
+/* Class = "NSMenuItem"; title = "80"; ObjectID = "edq-9b-UeK"; */
+"edq-9b-UeK.title" = "80";
+
+/* Class = "NSMenuItem"; title = "Paragraph"; ObjectID = "gDR-81-YkH"; Note = "SKIP LOCALIZATION"; */
+"gDR-81-YkH.title" = "Absatz";
+
+/* Class = "NSTextFieldCell"; title = "Limit line length to:"; ObjectID = "gXq-Uk-cKy"; */
+"gXq-Uk-cKy.title" = "Zeilenlänge:";
+
+/* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
+"hdF-Eo-fOe.title" = "Bindestriche";
+
+/* Class = "NSMenuItem"; title = "Monospaced"; ObjectID = "ldB-5Y-buh"; */
+"ldB-5Y-buh.title" = "Monospace";
+
+/* Class = "NSButtonCell"; title = "Copy/paste"; ObjectID = "mHr-Yd-9Gp"; */
+"mHr-Yd-9Gp.title" = "Kopieren und einsetzen";
+
+/* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
+"nlh-Zj-3rv.title" = "Grammatik mitprüfen";
+
+/* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "o55-nN-2Rp"; */
+"o55-nN-2Rp.title" = "Während Texteingabe prüfen";
+
+/* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
+"q1M-nl-ibX.title" = "Anführungszeichen";
+
+/* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "uvj-YM-p0c"; */
+"uvj-YM-p0c.title" = "Buchstaben";
