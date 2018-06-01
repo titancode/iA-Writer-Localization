@@ -1,6 +1,6 @@
 
 /* Class = "NSMenuItem"; title = "Tabs"; ObjectID = "51F-7r-uRC"; */
-"51F-7r-uRC.title" = "Onglets";
+"51F-7r-uRC.title" = "Tabulations";
 
 /* Class = "NSTextFieldCell"; title = "Supported scripts: Cyrillic, Greek, Latin. \nSystem fonts will be used for other scripts."; ObjectID = "6FK-0a-8ew"; */
 "6FK-0a-8ew.title" = "Scripts compatibles : cyrillique, grec, latin. \nLes polices système seront utilisées pour les autres scripts.";
