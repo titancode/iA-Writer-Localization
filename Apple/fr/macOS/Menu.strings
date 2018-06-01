@@ -528,7 +528,7 @@
 "tAr-9g-Fab.title" = "Configuration de page...";
 
 /* Class = "NSMenuItem"; title = "Show Organizer"; ObjectID = "taf-dz-PMT"; Note = "SKIP LOCALIZATION"; */
-"taf-dz-PMT.title" = "Afficher l’agenda";
+"taf-dz-PMT.title" = "Afficher l’organisateur";
 
 /* Class = "NSMenuItem"; title = "Move Line Down"; ObjectID = "uOS-79-CAj"; */
 "uOS-79-CAj.title" = "Déplacer une ligne vers le bas";

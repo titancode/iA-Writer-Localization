@@ -148,10 +148,10 @@
 "Show_Preview" = "Afficher l’aperçu";
 
 /* Menu item to show preview. */
-"Show_Source_List" = "Afficher l’agenda";
+"Show_Source_List" = "Afficher l’organisateur";
 
 /* Menu item to show preview. */
-"Hide_Source_List" = "Masquer l’agenda";
+"Hide_Source_List" = "Masquer l’organisateur";
 
 /* Menu item to show filter bar. */
 "Show_Search_Bar" = "Afficher la barre de filtre";
