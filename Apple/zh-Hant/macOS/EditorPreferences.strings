@@ -6,22 +6,22 @@
 "6FK-0a-8ew.title" = "支援文字：西里爾文、希臘文、拉丁文。\n其他文字將使用系統字體。";
 
 /* Class = "NSTextFieldCell"; title = "Spelling and grammar:"; ObjectID = "6L5-CK-rbm"; */
-"6L5-CK-rbm.title" = "拼寫和語法：";
+"6L5-CK-rbm.title" = "拼字和文法：";
 
 /* Class = "NSTextFieldCell"; title = "Text size:"; ObjectID = "7iw-vf-YLb"; */
-"7iw-vf-YLb.title" = "字體大小：";
+"7iw-vf-YLb.title" = "文字大小：";
 
 /* Class = "NSMenuItem"; title = "Medium"; ObjectID = "7km-23-5ry"; */
 "7km-23-5ry.title" = "中";
 
 /* Class = "NSButtonCell"; title = "Text replacement"; ObjectID = "JpA-gV-jQe"; */
-"JpA-gV-jQe.title" = "文字取代";
+"JpA-gV-jQe.title" = "替代文字";
 
 /* Class = "NSButtonCell"; title = "Correct spelling"; ObjectID = "KWp-yU-5hs"; */
-"KWp-yU-5hs.title" = "拼寫更正";
+"KWp-yU-5hs.title" = "更正拼字";
 
 /* Class = "NSTextFieldCell"; title = "Focus scope:"; ObjectID = "Muo-8w-HeG"; */
-"Muo-8w-HeG.title" = "重點範圍：";
+"Muo-8w-HeG.title" = "專注範圍：";
 
 /* Class = "NSMenuItem"; title = "72"; ObjectID = "ODb-aW-xzV"; */
 "ODb-aW-xzV.title" = "72";
@@ -45,13 +45,13 @@
 "Zfe-pD-b7Z.title" = "雙間距";
 
 /* Class = "NSMenuItem"; title = "Spaces"; ObjectID = "bUN-vs-toB"; */
-"bUN-vs-toB.title" = "間距";
+"bUN-vs-toB.title" = "等寬";
 
 /* Class = "NSTextFieldCell"; title = "Indent text using:"; ObjectID = "dkb-Rh-mQj"; */
 "dkb-Rh-mQj.title" = "文字縮排方式：";
 
 /* Class = "NSTextFieldCell"; title = "Smart substitutions:"; ObjectID = "dqc-LX-3Cd"; */
-"dqc-LX-3Cd.title" = "智能取代：";
+"dqc-LX-3Cd.title" = "智慧取代：";
 
 /* Class = "NSMenuItem"; title = "Sentence"; ObjectID = "eVp-ub-H3k"; Note = "SKIP LOCALIZATION"; */
 "eVp-ub-H3k.title" = "句子";
@@ -63,7 +63,7 @@
 "gDR-81-YkH.title" = "段落";
 
 /* Class = "NSTextFieldCell"; title = "Limit line length to:"; ObjectID = "gXq-Uk-cKy"; */
-"gXq-Uk-cKy.title" = "每行長度限制為：";
+"gXq-Uk-cKy.title" = "限制每行長度為：";
 
 /* Class = "NSButtonCell"; title = "Dashes"; ObjectID = "hdF-Eo-fOe"; */
 "hdF-Eo-fOe.title" = "破折號";
@@ -75,13 +75,13 @@
 "mHr-Yd-9Gp.title" = "複製/貼上";
 
 /* Class = "NSButtonCell"; title = "Check grammar with spelling"; ObjectID = "nlh-Zj-3rv"; */
-"nlh-Zj-3rv.title" = "檢查拼寫文法";
+"nlh-Zj-3rv.title" = "檢查拼字文法";
 
 /* Class = "NSButtonCell"; title = "Check spelling while typing"; ObjectID = "o55-nN-2Rp"; */
-"o55-nN-2Rp.title" = "在輸入時檢查拼寫";
+"o55-nN-2Rp.title" = "在輸入時同步檢查拼字";
 
 /* Class = "NSButtonCell"; title = "Quotes"; ObjectID = "q1M-nl-ibX"; */
-"q1M-nl-ibX.title" = "引用";
+"q1M-nl-ibX.title" = "引號";
 
 /* Class = "NSTextFieldCell"; title = "characters"; ObjectID = "uvj-YM-p0c"; */
-"uvj-YM-p0c.title" = "字符";
+"uvj-YM-p0c.title" = "字元";
